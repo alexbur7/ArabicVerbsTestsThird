@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_discover" translatable="false">
+        находить, искать (и) - وَجَدَ\n
+        discover (i) - وَجَدَ
+  </string>
+  <string-array name="past_discover">
+    <item>He discovered # Он искал # وَجَدَ</item>
+    <item>We discovered # Мы искали # وَجَدْنَا</item>
+    <item>I discovered # Я искал # وَجَدْتُ</item>
+    <item>They (two men) discovered # Они (двое мужчин) искали # وَجَدَا</item>
+    <item>They (all men) discovered # Они (все мужчины) искали # وَجَدُوا</item>
+    <item>You (man) discovered # Ты (мужчина) искал # وَجَدْتَ</item>
+    <item>She discovered # Она искала # وَجَدَتْ</item>
+    <item>You (two women) discovered # Вы (две женщины) искали # وَجَدْتُمَا</item>
+    <item>You (two men) discovered # Вы (двое мужчин) искали # وَجَدْتُمَا</item>
+    <item>They (two women) discovered # Они (две женщины) искали # وَجَدَتَا</item>
+    <item>They (all women) discovered # Они (все женщины) искали # وَجَدْنَ</item>
+    <item>You (all men) discovered # Вы (все мужчины) искали # وَجَدْتُمْ</item>
+    <item>You (woman) discovered # Ты (женщина) искала # وَجَدْتِ</item>
+    <item>You (all women) discovered # Вы (все женщины) искали # وَجَدْتُنَّ</item>
+    <item>He was discovered # Его искали # وُجِدَ</item>
+    <item>You (two men) were discovered # Вас (двоих мужчин) искали # وُجِدْتُمَا</item>
+    <item>I was discovered # Меня искали # وُجِدْتُ</item>
+    <item>Their (two women) were discovered # Их (двух женщин) искали # وُجِدَتَا</item>
+    <item>You (all women) were discovered # Вас (всех женщин) искали # وُجِدْتُنَّ</item>
+    <item>You (man) were discovered # Тебя (мужчину) искали # وُجِدْتَ</item>
+    <item>We were discovered # Нас искали # وُجِدْنَا</item>
+    <item>Their (two men) were discovered # Их (двух мужчин) искали # وُجِدَا</item>
+    <item>She was discovered # Ее искали # وُجِدَتْ</item>
+    <item>You (all men) were discovered # Вас (всех мужчин) искали # وُجِدْتُمْ</item>
+    <item>You (two women) were discovered # Вас (двух женщин) искали # وُجِدْتُمَا</item>
+    <item>Their (all men) were discovered # Их (всех мужчин) искали # وُجِدُوا</item>
+    <item>Their (all women) were discovered # Их (всех женщин) искали # وُجِدْنَ</item>
+    <item>You (woman) were discovered # Тебя (женщину) искали # وُجِدْتِ</item>
+  </string-array>
+  <string-array name="present_discover">
+    <item>He discovers # Он ищет # يَجِدُ</item>
+    <item>We discover # Мы ищем # نَجِدُ</item>
+    <item>I discover # Я ищу # أَجِدُ</item>
+    <item>They (two men) discover # Они (двое мужчин) ищут # يَجِدَانِ</item>
+    <item>They (all men) discover # Они (все мужчины) ищут # يَجِدُونَ</item>
+    <item>You (man) discover # Ты (мужчина) ищешь # تَجِدُ</item>
+    <item>She discovers # Она ищет # تَجِدُ</item>
+    <item>You (two women) discover # Вы (две женщины) ищете # تَجِدَانِ</item>
+    <item>You (two men) discover # Вы (двое мужчин) ищете # تَجِدَانِ</item>
+    <item>They (two women) discover # Они (две женщины) ищут # تَجِدَانِ</item>
+    <item>They (all women) discover # Они (все женщины) ищут # يَجِدْنَ</item>
+    <item>You (all men) discover # Вы (все мужчины) ищете # تَجِدُونَ</item>
+    <item>You (woman) discover # Ты (женщина) ищешь # تَجِدِينَ</item>
+    <item>You (all women) discover # Вы (все женщины) ищете # تَجِدْنَ</item>
+    <item>He is discovered # Его ищут # يُوجَدُ</item>
+    <item>You (two men) are discovered # Вас (двоих мужчин) ищут # تُوجَدَانِ</item>
+    <item>I am discovered # Меня ищут # أُوجَدُ</item>
+    <item>Their (two women) are discovered # Их (двоих женщин) ищут # تُوجَدَانِ </item>
+    <item>You (all women) are discovered # Вас (всех женщин) ищут # تُوجَدْنَ</item>
+    <item>You (man) are discovered # Тебя (мужчину) ищут # تُوجَدُ</item>
+    <item>We are discovered # Нас ищут # نُوجَدُ</item>
+    <item>Their (two men) are discovered # Их (двух мужчин) ищут # يُوجَدَانِ</item>
+    <item>She is discovered # Ее ищут # تُوجَدُ</item>
+    <item>You (all men) are discovered # Вас (всех мужчин) ищут # تُوجَدُونَ</item>
+    <item>You (two women) are discovered # Вас (двух женщин) ищут # تُوجَدَانِ</item>
+    <item>Their (all men) are discovered # Их (всех мужчин) ищут # يُوجَدُونَ</item>
+    <item>Their (all women) are discovered # Их (всех женщин) ищут # يُوجَدْنَ</item>
+    <item>You (woman) are discovered # Тебя (женщину) ищут # تُوجَدِينَ</item>
+  </string-array>
+  <string-array name="future_discover">
+    <item>Discover (man)! (Imperative) # Ищи (мужчине)! # جِدْ</item>
+    <item>Discover (two men)! (Imperative) # Ищите (двум мужчинам)! # جِدَا</item>
+    <item>Discover (all men)! (Imperative) # Ищите (всем мужчинам)! # جِدُوا</item>
+    <item>Discover (woman)! (Imperative) # Ищи (женщине)! # جِدِي</item>
+    <item>Discover (two women)! (Imperative) # Ищите (двум женщинам)! # جِدَا</item>
+    <item>Discover (all women)! (Imperative) # Ищите (всем женщинам)! # جِدْنَ</item>
+    <item>Let is discover together! (Imperative) # Давайте искать вместе! # لِنَجِدْ</item>
+    <item>He will discover # Он будет искать # سَيَجِدُ</item>
+    <item>They (all women) will discover # Они (все женщины) будут искать # سَيَجِدْنَ</item>
+    <item>You (man) will discover # Ты будешь искать (мужчине) # سَتَجِدُ</item>
+    <item>Let me discover! (Imperative) # Давайте я найду! # لِأَجِدْ</item>
+    <item>Let them (two men) discover! (Imperative) # Пусть они (двое мужчин) найдут! # لِيَجِدَا</item>
+    <item>Let them (all men) discover! (Imperative) # Пусть они (все мужчины) найдут! # لِيَجِدُوا</item>
+    <item>Let them (two women) discover! (Imperative) # Пусть они (две женщины) найдут! # لِتَجِدَا</item>
+  </string-array>
+</resources>

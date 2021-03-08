@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_protect" translatable="false">
+        защищать, охранять (и) - حَمَى\n
+        protect (i) - حَمَى
+  </string>
+  <string-array name="past_protect">
+    <item>He protected # Он защищал # حَمَى</item>
+    <item>We protected # Мы защищали # حَمَيْنَا</item>
+    <item>I protected # Я защищал # حَمَيْتُ</item>
+    <item>They (two men) protected # Они (двое мужчин) защищали # حَمَيَا</item>
+    <item>They (all men) protected # Они (все мужчины) защищали # حَمَوْا</item>
+    <item>You (man) protected # Ты (мужчина) защищал # حَمَيْتَ</item>
+    <item>She protected # Она защищала # حَمَتْ</item>
+    <item>You (two women) protected # Вы (две женщины) защищали # حَمَيْتُمَا</item>
+    <item>You (two men) protected # Вы (двое мужчин) защищали # حَمَيْتُمَا</item>
+    <item>They (two women) protected # Они (две женщины) защищали # حَمَتَا</item>
+    <item>They (all women) protected # Они (все женщины) защищали # حَمَيْنَ</item>
+    <item>You (all men) protected # Вы (все мужчины) защищали # حَمَيْتُمْ</item>
+    <item>You (woman) protected # Ты (женщина) защищала # حَمَيْتِ</item>
+    <item>You (all women) protected # Вы (все женщины) защищали # حَمَيْتُنَّ</item>
+    <item>He was protected # Его защищали # حُمِيَ</item>
+    <item>You (two men) were protected # Вас (двоих мужчин) защищали # حُمِيتُمَا</item>
+    <item>I was protected # Меня защищали # حُمِيتُ</item>
+    <item>Their (two women) were protected # Их (двух женщин) защищали # حُمِيَتَا</item>
+    <item>You (all women) were protected # Вас (всех женщин) защищали # حُمِيتُنَّ</item>
+    <item>You (man) were protected # Тебя (мужчину) защищали # حُمِيتَ</item>
+    <item>We were protected # Нас защищали # حُمِينَا</item>
+    <item>Their (two men) were protected # Их (двух мужчин) защищали # حُمِيَا</item>
+    <item>She was protected # Ее защищали # حُمِيَتْ</item>
+    <item>You (all men) were protected # Вас (всех мужчин) защищали # حُمِيتُمْ</item>
+    <item>You (two women) were protected # Вас (двух женщин) защищали # حُمِيتُمَا</item>
+    <item>Their (all men) were protected # Их (всех мужчин) защищали # حُمُوا</item>
+    <item>Their (all women) were protected # Их (всех женщин) защищали # حُمِينَ</item>
+    <item>You (woman) were protected # Тебя (женщину) защищали # حُمِيتِ</item>
+  </string-array>
+  <string-array name="present_protect">
+    <item>He protects # Он защищает # يَحْمِي</item>
+    <item>We protect # Мы защищаем # نَحْمِي</item>
+    <item>I protect # Я защищаю # أَحْمِي</item>
+    <item>They (two men) protect # Они (двое мужчин) защищают # يَحْمِيَانِ</item>
+    <item>They (all men) protect # Они (все мужчины) защищают # يَحْمُونَ</item>
+    <item>You (man) protect # Ты (мужчина) защищаешь # تَحْمِي</item>
+    <item>She protects # Она защищает # تَحْمِي</item>
+    <item>You (two women) protect # Вы (две женщины) защищаете # تَحْمِيَانِ</item>
+    <item>You (two men) protect # Вы (двое мужчин) защищаете # تَحْمِيَانِ</item>
+    <item>They (two women) protect # Они (две женщины) защищают # تَحْمِيَانِ</item>
+    <item>They (all women) protect # Они (все женщины) защищают # يَحْمِينَ</item>
+    <item>You (all men) protect # Вы (все мужчины) защищаете # تَحْمُونَ</item>
+    <item>You (woman) protect # Ты (женщина) защищаешь # تَحْمِينَ</item>
+    <item>You (all women) protect # Вы (все женщины) защищаете # تَحْمِينَ</item>
+    <item>He is protected # Его защищают # يُحْمَى</item>
+    <item>You (two men) are protected # Вас (двоих мужчин) защищают # تُحْمَيَانِ</item>
+    <item>I am protected # Меня защищают # أُحْمَى</item>
+    <item>Their (two women) are protected # Их (двоих женщин) защищают # تُحْمَيَانِ</item>
+    <item>You (all women) are protected # Вас (всех женщин) защищают # تُحْمَيْنَ</item>
+    <item>You (man) are protected # Тебя (мужчину) защищают # تُحْمَى</item>
+    <item>We are protected # Нас защищают # نُحْمَى</item>
+    <item>Their (two men) are protected # Их (двух мужчин) защищают # يُحْمَيَانِ</item>
+    <item>She is protected # Ее защищают # تُحْمَى</item>
+    <item>You (all men) are protected # Вас (всех мужчин) защищают # تُحْمَوْنَ</item>
+    <item>You (two women) are protected # Вас (двух женщин) защищают # تُحْمَيَانِ</item>
+    <item>Their (all men) are protected # Их (всех мужчин) защищают # يُحْمَوْنَ</item>
+    <item>Their (all women) are protected # Их (всех женщин) защищают # يُحْمَيْنَ</item>
+    <item>You (woman) are protected # Тебя (женщину) защищают # تُحْمَيْنَ</item>
+  </string-array>
+  <string-array name="future_protect">
+    <item>Protect (man)! (Imperative) # Защищай (мужчине)! # اِحْمِ</item>
+    <item>Protect (two men)! (Imperative) # Защищайте (двум мужчинам)! # اِحْمِيَا</item>
+    <item>Protect (all men)! (Imperative) # Защищайте (всем мужчинам)! # اِحْمُوا</item>
+    <item>Protect (woman)! (Imperative) # Защищай (женщине)! # اِحْمِي</item>
+    <item>Protect (two women)! (Imperative) # Защищайте (двум женщинам)! # اِحْمِيَا</item>
+    <item>Protect (all women)! (Imperative) # Защищайте (всем женщинам)! # اِحْمِينَ</item>
+    <item>Let is protect together! (Imperative) # Давайте защищать вместе! # لِنَحْمِ</item>
+    <item>He will protect # Он будет защищать # سَيَحْمِي</item>
+    <item>They (all women) will protect # Они (все женщины) будут защищать # سَيَحْمِينَ</item>
+    <item>You (man) will protect # Ты (мужчина) будешь защищать # سَتَحْمِي</item>
+    <item>Let me protect! (Imperative) # Давайте я защищу! # لِأَحْمِ</item>
+    <item>Let them (two men) protect! (Imperative) # Пусть они (двое мужчин) защищают! # لِيَحْمِيَا</item>
+    <item>Let them (all men) protect! (Imperative) # Пусть они (все мужчины) защищают! # لِيَحْمُوا</item>
+    <item>Let them (two women) protect! (Imperative) # Пусть они (две женщины) защищают! # لِتَحْمِيَا</item>
+  </string-array>
+</resources>

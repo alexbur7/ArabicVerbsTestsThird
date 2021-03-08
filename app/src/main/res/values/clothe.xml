@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_clothe" translatable="false">
+        одевать, покрывать (у) - كَسَا\n
+        clothe (u) - كَسَا
+  </string>
+  <string-array name="past_clothe">
+    <item>He clothed # Он одевал # كَسَا</item>
+    <item>We clothed # Мы одевали # كَسَوْنَا</item>
+    <item>I clothed # Я одевал # كَسَوْتُ</item>
+    <item>They (two men) clothed # Они (двое мужчин) одевали # كَسَوَا</item>
+    <item>They (all men) clothed # Они (все мужчины) одевали # كَسَوْا</item>
+    <item>You (man) clothed # Ты (мужчина) одевал # كَسَوْتَ</item>
+    <item>She clothed # Она одевалаа # كَسَتْ</item>
+    <item>You (two women) clothed # Вы (две женщины) одевали # كَسَوْتُمَا</item>
+    <item>You (two men) clothed # Вы (двое мужчин) одевали # كَسَوْتُمَا</item>
+    <item>They (two women) clothed # Они (две женщины) одевали # كَسَتَا</item>
+    <item>They (all women) clothed # Они (все женщины) одевали # كَسَوْنَ</item>
+    <item>You (all men) clothed # Вы (все мужчины) одевали # كَسَوْتُمْ</item>
+    <item>You (woman) clothed # Ты (женщина) одевала # كَسَوْتِ</item>
+    <item>You (all women) clothed # Вы (все женщины) одевали # كَسَوْتُنَّ</item>
+    <item>He was clothed # Его одевали # كُسِيَ</item>
+    <item>You (two men) were clothed # Вас (двоих мужчин) одевали # كُسِيتُمَا</item>
+    <item>I was clothed # Меня одевали # كُسِيتُ</item>
+    <item>Their (two women) were clothed # Их (двух женщин) одевали # كُسِيَتَا</item>
+    <item>You (all women) were clothed # Вас (всех женщин) одевали # كُسِيتُنَّ</item>
+    <item>You (man) were clothed # Тебя (мужчину) одевали # كُسِيتَ</item>
+    <item>We were clothed # Нас одевали # كُسِينَا</item>
+    <item>Their (two men) were clothed # Их (двух мужчин) одевали # كُسِيَا</item>
+    <item>She was clothed # Ее одевали # كُسِيَتْ</item>
+    <item>You (all men) were clothed # Вас (всех мужчин) одевали # كُسِيتُمْ</item>
+    <item>You (two women) were clothed # Вас (двух женщин) одевали # كُسِيتُمَا</item>
+    <item>Their (all men) were clothed # Их (всех мужчин) одевали # كُسُوا</item>
+    <item>Their (all women) were clothed # Их (всех женщин) одевали # كُسِينَ</item>
+    <item>You (woman) were clothed # Тебя (женщину) одевали # كُسِيتِ</item>
+  </string-array>
+  <string-array name="present_clothe">
+    <item>He clothes # Он одевает # يَكْسُو</item>
+    <item>We clothe # Мы одеваем # نَكْسُو</item>
+    <item>I clothe # Я одеваю # أَكْسُو</item>
+    <item>They (two men) clothe # Они (двое мужчин) одевают # يَكْسُوَانِ</item>
+    <item>They (all men) clothe # Они (все мужчины) одевают # يَكْسُونَ</item>
+    <item>You (man) clothe # Ты (мужчина) одеваешь # تَكْسُو</item>
+    <item>She clothes # Она одевает # تَكْسُو</item>
+    <item>You (two women) clothe # Вы (две женщины) одеваете # تَكْسُوَانِ</item>
+    <item>You (two men) clothe # Вы (двое мужчин) одеваете # تَكْسُوَانِ</item>
+    <item>They (two women) clothe # Они (две женщины) одевают # تَكْسُوَانِ</item>
+    <item>They (all women) clothe # Они (все женщины) одевают # يَكْسُونَ</item>
+    <item>You (all men) clothe # Вы (все мужчины) одеваете # تَكْسُونَ</item>
+    <item>You (woman) clothe # Ты (женщина) одеваешь # تَكْسِينَ</item>
+    <item>You (all women) clothe # Вы (все женщины) одеваете # تَكْسُونَ</item>
+    <item>He is clothed # Его одевают # يُكْسَى</item>
+    <item>You (two men) are clothed # Вас (двоих мужчин) одевают # تُكْسَيَانِ</item>
+    <item>I am clothed # Меня одевают # أُكْسَى</item>
+    <item>Their (two women) are clothed # Их (двоих женщин) одевают # تُكْسَيَانِ</item>
+    <item>You (all women) are clothed # Вас (всех женщин) одевают # تُكْسَيْنَ</item>
+    <item>You (man) are clothed # Тебя (мужчину) одевают # تُكْسَى</item>
+    <item>We are clothed # Нас одевают # نُكْسَى</item>
+    <item>Their (two men) are clothed # Их (двух мужчин) одевают # يُكْسَيَانِ</item>
+    <item>She is clothed # Ее одевают # تُكْسَى</item>
+    <item>You (all men) are clothed # Вас (всех мужчин) одевают # تُكْسَوْنَ</item>
+    <item>You (two women) are clothed # Вас (двух женщин) одевают # تُكْسَيَانِ</item>
+    <item>Their (all men) are clothed # Их (всех мужчин) одевают # يُكْسَوْنَ</item>
+    <item>Their (all women) are clothed # Их (всех женщин) одевают # يُكْسَيْنَ</item>
+    <item>You (woman) are clothed # Тебя (женщину) одевают # تُكْسَيْنَ</item>
+  </string-array>
+  <string-array name="future_clothe">
+    <item>Clothe (man)! (Imperative) # Одевай (мужчине)! # اُكْسُ</item>
+    <item>Clothe (two men)! (Imperative) # Одевайте (двум мужчинам)! # اُكْسُوَا</item>
+    <item>Clothe (all men)! (Imperative) # Одевайте (всем мужчинам)! # اُكْسُوا</item>
+    <item>Clothe (woman)! (Imperative) # Одевай (женщине)! # اُكْسِي</item>
+    <item>Clothe (two women)! (Imperative) # Одевайте (двум женщинам)! # اُكْسُوَا</item>
+    <item>Clothe (all women)! (Imperative) # Одевайте (всем женщинам)! # اُكْسُونَ</item>
+    <item>Let is clothe together! (Imperative) # Давайте одевать вместе! # لِنَكْسُ</item>
+    <item>He will clothe # Он будет одевать # سَيَكْسُو</item>
+    <item>They (all women) will clothe # Они (все женщины) будут одевать # سَيَكْسُونَ</item>
+    <item>You (man) will clothe # Ты (мужчина) будешь одевать # سَتَكْسُو</item>
+    <item>Let me clothe! (Imperative) # Давайте я одену! # لِأَكْسُ</item>
+    <item>Let them (two men) clothe! (Imperative) # Пусть они (двое мужчин) одевают! # لِيَكْسُوَا</item>
+    <item>Let them (all men) clothe! (Imperative) # Пусть они (все мужчины) одевают! # لِيَكْسُوا</item>
+    <item>Let them (two women) clothe! (Imperative) # Пусть они (две женщины) одевают! # لِتَكْسُوَا</item>
+  </string-array>
+</resources>

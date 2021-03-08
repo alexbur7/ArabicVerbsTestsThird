@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imperative">Повелительное</string>
+    <string name="common_info">Общие сведения</string>
+    <string name="assimilated">Подобные правильным</string>
+    <string name="hollow">Пустые глаголы</string>
+    <string name="defective">Недостаточные с ي</string>
+    <string name="defective_final">Недостаточные с و</string>
+    <string name="app_name">Арабские глаголы - тесты 2</string>
+    <string name="share">Рассказать друзьям</string>
+    <string name="table">Таблицы</string>
+    <string name="tests">Тесты</string>
+    <string name="present_time">Настоящее время</string>
+    <string name="past_time">Прошедшее время</string>
+    <string name="future_time">Будущее/Повелительное</string>
+    <string name="error">Ошибка: </string>
+    <string name="correct">Правильно: </string>
+    <string name="total">Всего: </string>
+    <string name="great">Отлично!</string>
+    <string name="no">Нет</string>
+    <string name="title_rate">Оценка приложения</string>
+    <string name="message_rate">Понравилось приложение? Пожалуйста, оцените его. Спасибо!</string>
+    <string name="lock_pass_available_tests">Сперва пройдите доступные тесты на 100%</string>
+    <string name="congr_first">Поздравляем с прохождением первой пятерки глаголов!</string>
+    <string name="congr_second">Поздравляем с прохождением второй пятерки глаголов!</string>
+    <string name="congr_third">Поздравляем с прохождением всех глаголов!</string>
+    <string name="ok">Ok</string>
+    <string name="recommendation">Рекомендация</string>
+    <string name="send_friends">Рекоммендую приложение для изучения спряжения арабских глаголов: https://play.google.com/store/apps/details?id=com.apakhun.arabicverbstestssecond</string>
+    <string name="recommendation_text">
+        Рекомендуемый порядок изучения:\n\n
+1) Знакомство с грамматической таблицей подобно правильного глагола, с её временами, родами (мужской и женский), количеством (единственное, двойственное и множественное числа), а главное - характеризующих их добавлений к первоначальному глаголу (они выделены красным цветом).\n\n
+
+2) Заучивание прошедшего времени спряжения в активной и пассивной формах. После этого прохождение тестирования первого глагола в прошедшем времени (до стадии полного отсутствия ошибок).\n\n
+
+3) Заучивание настоящего времени спряжения в активной и пассивной формах, прохождение первого глагола в настоящем времени (до стадии полного отсутствия ошибок).\n\n
+
+4) Заучивание будущей и повелительной формы спряжения и прохождения первого глагола в этих формах (до стадии полного отсутствия ошибок).\n\n
+После этого можно приступать к тестированию следующих подобно правильных глаголов. Затем, после их 100% прохождения можно приступать к изучению и тестированию следующего вида глагола в таком же порядке.
+
+    </string>
+
+</resources>

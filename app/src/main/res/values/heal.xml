@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_heal" translatable="false">
+        вылечивать, лечить (и) - شَفَى\n 
+        heal (i) - شَفَى
+    </string>
+  <string-array name="heal">
+    <item>He healed # Он лечил # شَفَى</item>
+    <item>Their (all men) were healed # Их (всех мужчин) лечили # شُفُوا</item>
+    <item>They (two women) heal # Они (две женщины) лечат # تَشْفِيَانِ</item>
+    <item>You (man) are healed # Тебя (мужчину) лечат # تُشْفَى</item>
+    <item>You (all men) will heal # Вы (все мужчины) будете лечить # سَتَشْفُونَ</item>
+    <item>Heal (two women)! (Imperative) # Лечите (двум женщинам)! # اِشْفِيَا</item>
+    <item>They (two men) healed # Они (двое мужчин) лечили # شَفَيَا</item>
+    <item>She was healed # Её лечили # شُفِيَتْ</item>
+    <item>They (all women) heal # Они (все женщины) лечат # يَشْفِينَ</item>
+    <item>You (two men) are healed # Вас (двоих мужчин) лечат # تُشْفَيَانِ</item>
+    <item>You (woman) will heal # Ты (женщина) будешь лечить # سَتَشْفِينَ</item>
+    <item>Heal (all women)! (Imperative) # Лечите (всем женщинам)! # اِشْفِينَ</item>
+    <item>They (all men) healed # Они (все мужчины) лечили # شَفَوْا</item>
+    <item>Their (two women) were healed # Их (двух женщин) лечили # شُفِيَتَا</item>
+    <item>You (man) heal # Ты (мужчина) лечишь # تَشْفِي</item>
+    <item>You (all men) are healed # Вас (всех мужчин) лечат # تُشْفَوْنَ</item>
+    <item>You (two women) will heal # Вы (две женщины) будете лечить # سَتَشْفِيَانِ</item>
+    <item>Let me heal! (Imperative) # Давайте я вылечу! # لِأَشْفِ</item>
+    <item>She healed # Она лечила # شَفَتْ</item>
+    <item>Their (all women) were healed # Их (всех женщин) лечили # شُفِينَ</item>
+    <item>You (two men) heal # Вы (двое мужчин) лечите # تَشْفِيَانِ</item>
+    <item>You (woman) are healed # Тебя (женщину) лечат # تُشْفَيْنَ</item>
+    <item>You (all women) will heal # Вы (все женщины) будете лечить # سَتَشْفِينَ</item>
+    <item>Let is heal together! (Imperative) # Давайте лечить вместе! # لِنَشْفِ</item>
+    <item>They (two women) healed # Они (две женщины) лечили # شَفَتَا</item>
+    <item>You (man) were healed # Тебя (мужчину) лечили # شُفِيتَ</item>
+    <item>You (all men) heal # Вы (все мужчины) лечите # تَشْفُونَ</item>
+    <item>You (two women) are healed # Вас (двух женщин) лечат # تُشْفَيَانِ</item>
+    <item>I will heal # Я буду лечить # سَأَشْفِي</item>
+    <item>They (all women) healed # Они (все женщины) лечили # شَفَيْنَ</item>
+    <item>You (two men) were healed # Вас (двоих мужчин) лечили # شُفِيتُمَا</item>
+    <item>You (woman) heal # Ты (женщина) лечишь # تَشْفِينَ</item>
+    <item>You (all women) are healed # Вас (всех женщин) лечат # تُشْفَيْنَ</item>
+    <item>We will heal # Мы будем лечить # سَنَشْفِي</item>
+    <item>You (man) healed # Ты (мужчина) лечил # شَفَيْتَ</item>
+    <item>You (all men) were healed # Вас (всех мужчин) лечили # شُفِيتُمْ</item>
+    <item>You (two women) heal # Вы (две женщины) лечите # تَشْفِيَانِ</item>
+    <item>I am healed # Меня лечат # أُشْفَى</item>
+    <item>You (two men) healed # Вы (двое мужчин) лечили # شَفَيْتُمَا</item>
+    <item>You (woman) were healed # Тебя (женщину) лечили # شُفِيتِ</item>
+    <item>You (all women) heal # Вы (все женщины) лечите # تَشْفِينَ</item>
+    <item>We are healed # Нас лечат # نُشْفَى</item>
+    <item>You (all men) healed # Вы (все мужчины) лечили # شَفَيْتُمْ</item>
+    <item>You (two women) were healed # Вас (двух женщин) лечили # شُفِيتُمَا</item>
+    <item>I heal # Я вылечиваю # أَشْفِي</item>
+    <item>You (woman) healed # Ты (женщина) лечила # شَفَيْتِ</item>
+    <item>You (all women) were healed # Вас (всех женщин) лечили # شُفِيتُنَّ</item>
+    <item>We heal # Мы лечим # نَشْفِي</item>
+    <item>You (two women) healed # Вы (две женщины) лечили # شَفَيْتُمَا</item>
+    <item>I was healed # Меня лечили # شُفِيتُ</item>
+    <item>Their (two men) were healed # Их (двоих мужчин) лечили # شُفِيَا</item>
+    <item>She heals # Она лечит # تَشْفِي</item>
+    <item>Their (all women) are healed # Их (всех женщин) лечат # يُشْفَيْنَ</item>
+    <item>You (all women) healed # Вы (все женщины) лечили # شَفَيْتُنَّ</item>
+    <item>We were healed # Нас лечили # شُفِينَا</item>
+    <item>He was healed # Его лечили # شُفِيَ</item>
+    <item>They (all men) heal # Они (все мужчины) лечат # يَشْفُونَ</item>
+    <item>Their (two women) are healed # Их (двух женщин) лечат # تُشْفَيَانِ</item>
+    <item>I healed # Я лечил # شَفَيْتُ</item>
+    <item>Heal (woman)! (Imperative) # Вылечивай (женщине)! # اِشْفِي</item>
+    <item>He heals # Он лечит # يَشْفِي</item>
+    <item>Their (all men) are healed # Их (всех мужчин) лечат # يُشْفَوْنَ</item>
+    <item>We healed # Мы лечили # شَفَيْنَا</item>
+    <item>Heal (all men)! (Imperative) # Лечите (всем мужчинам)! # اِشْفُوا</item>
+    <item>They (two men) heal # Они (двое мужчин) лечат # يَشْفِيَانِ</item>
+    <item>She is healed # Её лечат # تُشْفَى</item>
+    <item>Heal (two men)! (Imperative) # Лечите (двум мужчинам)! # اِشْفِيَا</item>
+    <item>Their (two men) are healed # Их (двоих мужчин) лечат # يُشْفَيَانِ</item>
+    <item>Heal (man)! (Imperative) # Вылечивай (мужчине)! # اِشْفِ</item>
+    <item>He is healed # Его лечат # يُشْفَى</item>
+  </string-array>
+</resources>

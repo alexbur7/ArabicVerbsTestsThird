@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_leave" translatable="false">
+        оставлять (a) - وَدَعَ\n
+        leave (a) - وَدَعَ
+    </string>
+  <string-array name="leave">
+    <item>He left # Он оставлял # وَدَعَ</item>
+    <item>He was left # Его оставляли # وُدِعَ</item>
+    <item>He leaves # Он оставляет # يَدَعُ</item>
+    <item>He is left # Его оставляют # يُودَعُ</item>
+    <item>He will leave # Он будет оставлять # سَيَدَعُ</item>
+    <item>Let he leave! (Imperative) # Пусть он оставит! # لِيَدَعْ</item>
+    <item>We left # Мы оставляли # وَدَعْنَا</item>
+    <item>We were left # Нас оставляли # وُدِعْنَا</item>
+    <item>We leave # Мы оставляем # نَدَعُ</item>
+    <item>We are left # Нас оставляют # نُودَعُ</item>
+    <item>We will leave # Мы будем оставлять # سَنَدَعُ</item>
+    <item>Let\'s leave together! # Давайте оставим все вместе! # لِنَدَعْ</item>
+    <item>She left # Она оставляла # وَدَعَتْ</item>
+    <item>She was left # Её оставляли # وُدِعَتْ</item>
+    <item>She leaves # Она оставляет # تَدَعُ</item>
+    <item>She is left # Её оставляют # تُودَعُ</item>
+    <item>She will leave # Она будет оставлять # سَتَدَعُ</item>
+    <item>Let she leave (Imperative)! # Пусть она оставит! # لِتَدَعْ</item>
+    <item>You (man) left # Ты (мужчина) оставлял # وَدَعْتَ</item>
+    <item>You (man) were left # Тебя (мужчину) оставляли # وُدِعْتَ</item>
+    <item>You (man) leave # Ты (мужчина) оставляешь # تَدَعُ</item>
+    <item>You (man) are left # Тебя (мужчину) оставляют # تُودَعُ</item>
+    <item>You (man) will leave # Ты (мужчина) будешь оставлять # سَتَدَعُ</item>
+    <item>Leave (to man)!(Imperative) # Оставь (мужчине)! # دَعْ</item>
+    <item>You (woman) left # Ты (женщина) оставляла # وَدَعْتِ</item>
+    <item>You (woman) were left # Тебя (женщину) оставляли # وُدِعْتِ</item>
+    <item>You (woman) leave # Ты (женщина) оставляешь # تَدَعِينَ</item>
+    <item>You (woman) are left # Тебя (женщину) оставляют # تُودَعِينَ</item>
+    <item>You (woman) will leave # Ты (женщина) будешь оставлять # سَتَدَعِينَ</item>
+    <item>Leave (to woman)! (Imperative) # Оставь (женщине)! # دَعِي</item>
+    <item>They (all men) left # Они (все мужчины) оставляли # وَدَعُوا</item>
+    <item>They (all men) were left # Их (всех мужчин) оставляли # وُدِعُوا</item>
+    <item>They (all men) leave # Они (все мужчины) оставляют # يَدَعُونَ</item>
+    <item>They (all men) are left # Их (всех мужчин) оставляют # يُودَعُونَ</item>
+    <item>They (all men) will leave # Они (все мужчины) будут оставлять # سَيَدَعُونَ</item>
+    <item>Let they (all men) leave! # Пусть они (все мужчины) оставят! # لِيَدَعُوا</item>
+    <item>I left # Я оставлял # وَدَعْتُ</item>
+    <item>I was left # Меня оставляли # وُدِعْتُ</item>
+    <item>I leave # Я оставляю # أَدَعُ</item>
+    <item>I am left # Меня оставляют # أُودَعُ</item>
+    <item>I will leave # Я буду оставлять # سَأَدَعُ</item>
+    <item>Let me leave! (Imperative) # Давайте я оставлю! # لِأَدَعْ</item>
+    <item>They (all women) left # Они (все женщины) оставляли # وَدَعْنَ</item>
+    <item>They (all women) were left # Их (всех женщин) оставляли # وُدِعْنَ</item>
+    <item>They (all women) leave # Они (все женщины) оставляют # يَدَعْنَ</item>
+    <item>They (all women) are left # Их (всех женщин) оставляют # يُودَعْنَ</item>
+    <item>You (all men) left # Вы (все мужчины) оставляли # وَدَعْتُمْ</item>
+    <item>You (all men) were left # Вас (всех мужчин) оставляли # وُدِعْتُمْ</item>
+    <item>You (all men) leave # Вы (все мужчины) оставляете # تَدَعُونَ</item>
+    <item>You (all men) are left # Вас (всех мужчин) оставляют # تُودَعُونَ</item>
+    <item>You (all women) left # Вы (все женщины) оставляли # وَدَعْتُنَّ</item>
+    <item>You (all women) were left # Вас (всех женщин) оставляли # وُدِعْتُنَّ</item>
+    <item>You (all women) leave # Вы (все женщины) оставляете # تَدَعْنَ</item>
+    <item>You (all women) are left # Вас (всех женщин) оставляют # تُودَعْنَ</item>
+    <item>They (two men) left # Они (двое мужчин) оставляли # وَدَعَا</item>
+    <item>They (two men) were left # Их (двоих мужчин) оставляли # وُدِعَا</item>
+    <item>They (two men) leave # Они (двое мужчин) оставляют # يَدَعَانِ</item>
+    <item>They (two men) are left # Их (двоих мужчин) оставляют # يُودَعَانِ</item>
+    <item>They (two men) will leave # Они (двое мужчин) будут оставлять # سَيَدَعَانِ</item>
+    <item>Let they (two men) leave! (Imperative) # Пусть они (двое мужчин) оставят! # لِيَدَعَا</item>
+    <item>They (two women) left # Они (две женщины) оставляли # وَدَعَتَا</item>
+    <item>They (two women) were left # Их (двух женщин) оставляли # وُدِعَتَا</item>
+    <item>They (two women) leave # Они (две женщины) оставляют # تَدَعَانِ </item>
+    <item>They (two women) are left # Их (двух женщин) оставляют # تُودَعَانِ</item>
+    <item>They (two women) will leave # Они (две женщины) будут оставлять # سَتَدَعَانِ</item>
+    <item>Let they (two women) leave! (Imperative) # Пусть они (две женщины) оставят! # لِتَدَعَا</item>
+    <item>You (two men) left # Вы (двое мужчин) оставляли # وَدَعْتُمَا</item>
+    <item>You (two men) were left # Вас (двоих мужчин) оставляли # وُدِعْتُمَا</item>
+    <item>You (two men) leave # Вы (двое мужчин) оставляете # تَدَعَانِ</item>
+    <item>You (two men) are left # Вас (двоих мужчин) оставляют # تُودَعَانِ</item>
+  </string-array>
+</resources>

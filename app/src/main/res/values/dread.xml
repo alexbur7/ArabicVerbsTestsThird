@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_dread" translatable="false">
+        бояться, страшиться(a) - خَافَ\n 
+        dread (a) - خَافَ</string>
+  <string-array name="dread">
+    <item>He dreaded # Он боялся # خَافَ</item>
+    <item>Let is dread together! (Imperative) # Давайте бояться вместе! # لِنَخَفْ</item>
+    <item>He dreads # Он боится # يَخَافُ</item>
+    <item>We were dreaded # Нас боялись # خِفْنَا</item>
+    <item>Let him dread! (Imperative) # Пусть он боится! # لِيَخَفْ</item>
+    <item>We dreaded # Мы боялись # خِفْنَا</item>
+    <item>He will dread # Он будет бояться # سَيَخَافُ</item>
+    <item>We are dreaded # Нас боятся # نُخَافُ</item>
+    <item>You (man) were dreaded # Тебя (мужчину) боялись # خِفْتَ</item>
+    <item>We will dread # Мы будем бояться # سَنَخَافُ</item>
+    <item>Dread (man)! (Imperative) # Бойся (мужчине)! # خَفْ</item>
+    <item>We dread # Мы боимся # نَخَافُ</item>
+    <item>He was dreaded # Его боялись # خِيفَ</item>
+    <item>You (man) are dreaded # Тебя (мужчину) боятся # تُخَافُ</item>
+    <item>He are dreaded # Его боятся # يُخَافُ</item>
+    <item>You (all women) dreaded # Вы (все женщины) боялись # خِفْتُنَّ</item>
+    <item>Dread (all women)! (Imperative) # Бойтесь (всем женщинам)! # خَفْنَ</item>
+    <item>They (all women) dreaded # Они (все женщины) боялись # خِفْنَ</item>
+    <item>Their (all women) are dreaded # Их (всех женщин) боятся # يُخَفْنَ</item>
+    <item>You (all women) were dreaded # Вас (всех женщин) боялись # خِفْتُنَّ</item>
+    <item>Dread (two men)! (Imperative) # Бойтесь (двум мужчинам)! # خَافَا</item>
+    <item>You (all women) are dreaded # Вас (всех женщин) боятся # تُخَفْنَ</item>
+    <item>They (two men) dreaded # Они (двое мужчин) боялись # خَافَا</item>
+    <item>Let me dread! (Imperative) # Давайте я побоюсь! # لِأَخَفْ</item>
+    <item>Let them (two men) dread! (Imperative) # Пусть они (двое мужчин) боятся! # لِيَخَافَا</item>
+    <item>I dreaded # Я боялся # خِفْتُ</item>
+    <item>I am dreaded # Меня боятся # اُخَافُ</item>
+    <item>Their (two men) were dreaded # Их (двоих мужчин) боялись # خِيفَا</item>
+    <item>I dread # Я боюсь # أَخَافُ</item>
+    <item>Their (two men) are dreaded # Их (двоих мужчин) боятся # يُخَافَانِ</item>
+    <item>I was dreaded # Меня боялись # خِفْتُ</item>
+    <item>They (all women) dread # Они (все женщины) боятся # يَخَفْنَ</item>
+    <item>Their (all women) were dreaded # Их (всех женщин) боялись # خِفْنَ</item>
+    <item>You (all women) dread # Вы (все женщины) боитесь # تَخَفْنَ</item>
+    <item>You (two women) were dreaded # Вас (двух женщин) боялись # خِفْتُمَا</item>
+    <item>They (all men) dreaded # Они (все мужчины) боялись # خَافُوا</item>
+    <item>You (two women) are dreaded # Вас (двух женщин) боятся # تُخَافَانِ</item>
+    <item>They (two men) dread # Они (двое мужчин) боятся # يَخَافَانِ</item>
+    <item>They (two women) dreaded # Они (две женщины) боялись # خَافَتَا</item>
+    <item>You (man) dread # Ты (мужчина) боишься # تَخَافُ</item>
+    <item>Their (two women) are dreaded # Их (двух женщин) боятся # تُخَافَانِ</item>
+    <item>You (man) dreaded # Ты (мужчина) боялся # خِفْتَ</item>
+    <item>You (all men) dreaded # Вы (все мужчины) боялись # خِفْتُمْ</item>
+    <item>Dread (woman)! (Imperative) # Бойся (женщине)! # خَافِي</item>
+    <item>She was dreaded # Её боялись # خِيفَتْ</item>
+    <item>You (woman) are dreaded # Тебя (женщину) боятся # تُخَافِينَ</item>
+    <item>You (two men) were dreaded # Вас (двоих мужчин) боялись # خِفْتُمَا</item>
+    <item>You (all men) are dreaded # Вас (всех мужчин) боятся # تُخَافُونَ</item>
+    <item>You (woman) dreaded # Ты (женщина) боялась # خِفْتِ</item>
+    <item>She dreads # Она боится # تَخَافُ</item>
+    <item>Their (all men) were dreaded # Их (всех мужчин) боялись # خِيفُوا</item>
+    <item>You (two men) are dreaded # Вас (двоих мужчин) боятся # تُخَافَانِ</item>
+    <item>You (woman) were dreaded # Тебя (женщину) боялись # خِفْتِ</item>
+    <item>They (two women) dread # Они (две женщины) боятся # تَخَافَانِ</item>
+    <item>She dreaded # Она боялась # خَافَتْ</item>
+    <item>You (woman) dread # Ты (женщина) боишься # تَخَافِينَ</item>
+    <item>Their (all men) are dreaded # Их (всех мужчин) боятся # يُخَافُونَ</item>
+    <item>You (all men) were dreaded # Вас (всех мужчин) боялись # خِفْتُمْ</item>
+    <item>I will dread # Я буду бояться # سَأَخَافُ</item>
+    <item>You (two women) dread # Вы (две женщины) боитесь # تَخَافَانِ</item>
+    <item>She is dreaded # Её боятся # تُخَافُ</item>
+    <item>Their (two women) were dreaded # Их (двух женщин) боялись # خِيفَتَا</item>
+    <item>You (two men) dread # Вы (двое мужчин) боитесь # تَخَافَانِ</item>
+    <item>Dread (two women)! (Imperative) # Бойтесь (двум женщинам)! # خَافَا</item>
+    <item>They (all men) dread # Они (все мужчины) боятся # يَخَافُونَ</item>
+    <item>You (man) will dread # Ты (мужчина) будешь бояться # سَتَخَافُ</item>
+    <item>You (all men) dread # Вы (все мужчины) боитесь # تَخَافُونَ</item>
+    <item>You (two men) dreaded # Вы (двое мужчин) боялись # خِفْتُمَا</item>
+    <item>Dread (all men)! (Imperative) # Бойтесь (всем мужчинам)! # خَافُوا</item>
+    <item>You (two women) dreaded # Вы (две женщины) боялись # خِفْتُمَا</item>
+  </string-array>
+</resources>

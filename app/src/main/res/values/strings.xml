@@ -1,0 +1,39 @@
+<resources>
+    <string name="imperative">Imperative</string>
+    <string name="common_info">Common information</string>
+    <string name="assimilated">Assimilated (similar to regular)</string>
+    <string name="hollow">Hollow (empty)</string>
+    <string name="defective">Defective (Insufficien) with final ي</string>
+    <string name="defective_final">Defective (Insufficien) with final و</string>
+    <string name="app_name">Arabic verbs - tests 2</string>
+    <string name="share">Share</string>
+    <string name="table">Tables</string>
+    <string name="tests">Tests</string>
+    <string name="present_time">Present</string>
+    <string name="past_time">Past</string>
+    <string name="future_time">Future/Imperative</string>
+    <string name="error">Error: </string>
+    <string name="correct">Correct: </string>
+    <string name="total">Total: </string>
+    <string name="great">Great!</string>
+    <string name="no">No</string>
+    <string name="title_rate">Rate the app</string>
+    <string name="message_rate">Nice? Please, rate this app. Thank You!</string>
+    <string name="lock_pass_available_tests">First, pass all available tests correctly</string>
+    <string name="congr_first">Сongratulations on passing the first five verbs!</string>
+    <string name="congr_second">Сongratulations on passing the second five verbs!</string>
+    <string name="congr_third">Сongratulations on passing all verbs!</string>
+    <string name="ok">OK</string>
+    <string name="recommendation">Recomendation</string>
+    <string name="send_friends">I recommend the application for learning Arabic verb conjugations: https://play.google.com/store/apps/details?id=com.apakhun.arabicverbstestssecond</string>
+    <string name="recommendation_text">
+       The recommended order of learning:\n\n
+1) Acquaintance with the grammar table Assimilated  (similar to regular) verb: tense (past, present, future), masculine or feminine, quantitative (singularity, duality and plurality), and most importantly the rule of appending to the origin verb (these are red colored) \n\n
+2) Learning of the past tense conjugation in active and passive forms. Passing of the first verb without any errors.\n\n
+3) Learning of the present tense conjugation in active and passive forms. Passing of the first verb without any errors.\n\n
+4) Learning of the future and imperative tenses conjugation. Passing of the first verb without any errors.\n\n
+After these steps, you can start testing the rest of the Assimilated  (similar to regular) verbs. Then, after their 100% passing, you can test other types of verbs.
+
+</string>
+
+</resources>

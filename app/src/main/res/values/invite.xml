@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_invite" translatable="false">
+        звать, призывать (у) - دَعَا\n
+        urge, invite (u) - دَعَا
+  </string>
+  <string-array name="invite">
+    <item>He invited # Он призывал # دَعَا</item>
+    <item>He invites # Он призывает # يَدْعُو</item>
+    <item>Them (two men) were invited # Их (двоих мужчин) призывали # دُعِيَا</item>
+    <item>They (all men) invited # Они (все мужчины) призывали # دَعَوْا</item>
+    <item>He is invited # Его призывают # يُدْعَى</item>
+    <item>They (two men) invite # Они (двое мужчин) призывают # يَدْعُوَانِ</item>
+    <item>Them (all men) were invited # Их (всех мужчин) призывали # دُعُوا</item>
+    <item>She invited # Она призывала # دَعَتْ</item>
+    <item>Them (two men) are invited # Их (двоих мужчин) призывают # يُدْعَيَانِ</item>
+    <item>They (all men) invite # Они (все мужчины) призывают # يَدْعُونَ</item>
+    <item>She was invited # Её призывали # دُعِيَتْ</item>
+    <item>They (two women) invited # Они (две женщины) призывали # دَعَتَا</item>
+    <item>Them (all men) are invited # Их (всех мужчин) призывают # يُدْعَوْنَ</item>
+    <item>She invites # Она призывает # تَدْعُو</item>
+    <item>Them (two women) were invited # Их (двух женщин) призывали # دُعِيَتَا</item>
+    <item>They (all women) invited # Они (все женщины) призывали # دَعَوْنَ</item>
+    <item>She is invited # Её призывают # تُدْعَى</item>
+    <item>They (two women) invite # Они (две женщины) призывают # تَدْعُوَانِ</item>
+    <item>Them (all women) were invited # Их (всех женщин) призывали # دُعِينَ</item>
+    <item>You (man) invited # Ты (мужчина) призывал # دَعَوْتَ</item>
+    <item>Them (two women) are invited # Их (двух женщин) призывают # تُدْعَيَانِ</item>
+    <item>They (all women) invite # Они (все женщины) призывают # يَدْعُونَ</item>
+    <item>You (man) were invited # Тебя (мужчину) призывали # دُعِيتَ</item>
+    <item>You (two men) invited # Вы (двое мужчин) призывали # دَعَوْتُمَا</item>
+    <item>Let her invite! (Imperative) # Пусть она призывает! # لِتَدْعُ</item>
+    <item>They (two women) will invite # Они (две женщины) будут призывать # سَتَدْعُوَانِ</item>
+    <item>Them (all women) are invited # Их (всех женщин) призывают # يُدْعَيْنَ</item>
+    <item>You (man) invite # Ты (мужчина) призываешь # تَدْعُو</item>
+    <item>You (two men) were invited # Вас (двоих мужчин) призывали # دُعِيتُمَا</item>
+    <item>You (all men) invited # Вы (все мужчины) призывали # دَعَوْتُمْ</item>
+    <item>Let them (two women) invite! (Imperative) # Пусть они (две женщины) призывают! # لِتَدْعُوَا</item>
+    <item>They (all women) will invite # Они (все женщины) будут призывать # سَيَدْعُونَ</item>
+    <item>You (man) are invited # Тебя (мужчину) призывают # تُدْعَى</item>
+    <item>You (two men) invite # Вы (двое мужчин) призываете # تَدْعُوَانِ</item>
+    <item>You (all men) were invited # Вас (всех мужчин) призывали # دُعِيتُمْ</item>
+    <item>You (woman) invited # Ты (женщина) призывала # دَعَوْتِ</item>
+    <item>Let them (all women) invite! (Imperative) # Пусть они (все женщины) призывают! # لِيَدْعُونَ</item>
+    <item>You (man) will invite # Ты (мужчина) будешь призывать # سَتَدْعُو</item>
+    <item>You (two men) are invited # Вас (двоих мужчин) призывают # تُدْعَيَانِ</item>
+    <item>You (all men) invite # Вы (все мужчины) призываете # تَدْعُونَ</item>
+    <item>You (woman) were invited # Тебя (женщину) призывали # دُعِيتِ</item>
+    <item>You (two women) invited # Вы (две женщины) призывали # دَعَوْتُمَا</item>
+    <item>Invite (man)! (Imperative) # Призывай (мужчине)! # اُدْعُ</item>
+    <item>You (all men) are invited # Вас (всех мужчин) призывают # تُدْعَوْنَ</item>
+    <item>You (woman) invite # Ты (женщина) призываешь # تَدْعِينَ</item>
+    <item>You (two women) were invited # Вас (двух женщин) призывали # دُعِيتُمَا</item>
+    <item>You (all women) invited # Вы (все женщины) призывали # دَعَوْتُنَّ</item>
+    <item>Invite (two men)! (Imperative) # Призывайте (двум мужчинам)! # اُدْعُوَا</item>
+    <item>You (woman) are invited # Тебя (женщину) призывают # تُدْعَيْنَ</item>
+    <item>You (two women) invite # Вы (две женщины) призываете # تَدْعُوَانِ</item>
+    <item>You (all women) were invited # Вас (всех женщин) призывали # دُعِيتُنَّ</item>
+    <item>I invited # Я призывал # دَعَوْتُ</item>
+    <item>Invite (all men)! (Imperative) # Призывайте (всем мужчинам)! # اُدْعُوا</item>
+    <item>He was invited # Его призывали # دُعِيَ</item>
+    <item>You (two women) are invited # Вас (двух женщин) призывают # تُدْعَيَانِ</item>
+    <item>You (all women) invite # Вы (все женщины) призываете # تَدْعُونَ</item>
+    <item>I was invited # Меня призывали # دُعِيتُ</item>
+    <item>We invited # Мы призывали # دَعَوْنَا</item>
+    <item>Invite (woman)! (Imperative) # Призывай (женщине)! # اُدْعِي</item>
+    <item>You (all women) are invited # Вас (всех женщин) призывают # تُدْعَيْنَ</item>
+    <item>I invite # Я призываю # أَدْعُو</item>
+    <item>We were invited # Нас призывали # دُعِينَا</item>
+    <item>Invite (two women)! (Imperative) # Призывайте (двум женщинам)! # اُدْعُوَا</item>
+    <item>I am invited # Меня призывают # أُدْعَى</item>
+    <item>We invite # Мы призываем # نَدْعُو</item>
+    <item>Invite (all women)! (Imperative) # Призывайте (всем женщинам)! # اُدْعُونَ</item>
+    <item>I will invite # Я буду призывать # سَأَدْعُو</item>
+    <item>We are invited # Нас призывают # نُدْعَى</item>
+    <item>They (two men) invited # Они (двое мужчин) призывали # دَعَوَا</item>
+    <item>Let him invite ! (Imperative) # Пусть он призывает! # لِيَدْعُ</item>
+  </string-array>
+</resources>

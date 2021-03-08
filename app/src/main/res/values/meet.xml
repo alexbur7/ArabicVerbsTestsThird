@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_meet" translatable="false">
+        встречать (a) - لَقِيَ\n 
+        meet (a) - لَقِيَ</string>
+  <string-array name="meet">
+    <item>He met # Он встречал # لَقِيَ</item>
+    <item>Let is meet together! (Imperative) # Давайте встречать вместе! # لِنَلْقَ</item>
+    <item>He meets # Он встречает # يَلْقَى</item>
+    <item>We were met # Нас встречали # لُقِينَا</item>
+    <item>Let him meet! (Imperative) # Пусть он встречает! # لِيَلْقَ</item>
+    <item>We met # Мы встречали # لَقِينَا</item>
+    <item>He will meet # Он будет встречать # سَيَلْقَى</item>
+    <item>We are met # Нас встречают # نُلْقَى</item>
+    <item>You (man) were met # Тебя (мужчину) встречали # لُقِيتَ</item>
+    <item>We will meet # Мы будем встречать # سَنَلْقَى</item>
+    <item>Meet (man)! (Imperative) # Встречай (мужчине)! # اِلْقَ</item>
+    <item>We meet # Мы встречаем # نَلْقَى</item>
+    <item>He was met # Его встречали # لُقِيَ</item>
+    <item>You (man) are met # Тебя (мужчину) встречают # تُلْقَى</item>
+    <item>He are met # Его встречают # يُلْقَى</item>
+    <item>You (all women) met # Вы (все женщины) встречали # لَقِيتُنَّ</item>
+    <item>Meet (all women)! (Imperative) # Встречайте (всем женщинам)! # اِلْقَيْنَ</item>
+    <item>They (all women) met # Они (все женщины) встречали # لَقِينَ</item>
+    <item>Their (all women) are met # Их (всех женщин) встречают # يُلْقَيْنَ</item>
+    <item>You (all women) were met # Вас (всех женщин) встречали # لُقِيتُنَّ</item>
+    <item>Meet (two men)! (Imperative) # Встречайте (двум мужчинам)! # اِلْقَيَا</item>
+    <item>You (all women) are met # Вас (всех женщин) встречают # تُلْقَيْنَ</item>
+    <item>They (two men) met # Они (двое мужчин) встречали # لَقِيَا</item>
+    <item>Let me meet! (Imperative) # Давайте я встречу! # لِأَلْقَ</item>
+    <item>Let them (two men) meet! (Imperative) # Пусть они (двое мужчин) встречают! # لِيَلْقَيَا</item>
+    <item>I met # Я встречал # لَقِيتُ</item>
+    <item>I am met # Меня встречают # أُلْقَى</item>
+    <item>Their (two men) were met # Их (двоих мужчин) встречали # لُقِيَا</item>
+    <item>I meet # Я встречаю # أَلْقَى</item>
+    <item>Their (two men) are met # Их (двоих мужчин) встречают # يُلْقَيَانِ</item>
+    <item>I was met # Меня встречали # لُقِيتُ</item>
+    <item>They (all women) meet # Они (все женщины) встречают # يَلْقَيْنَ</item>
+    <item>Their (all women) were met # Их (всех женщин) встречали # لُقِينَ</item>
+    <item>You (all women) meet # Вы (все женщины) встречаете # تَلْقَيْنَ</item>
+    <item>You (two women) were met # Вас (двух женщин) встречали # لُقِيتُمَا</item>
+    <item>They (all men) met # Они (все мужчины) встречали # لَقُوا</item>
+    <item>You (two women) are met # Вас (двух женщин) встречают # تُلْقَيَانِ</item>
+    <item>They (two men) meet # Они (двое мужчин) встречают # يَلْقَيَانِ</item>
+    <item>They (two women) met # Они (две женщины) встречали # لَقِيَتَا</item>
+    <item>You (man) meet # Ты (мужчина) встречаешь # تَلْقَى</item>
+    <item>Their (two women) are met # Их (двух женщин) встречают # تُلْقَيَانِ</item>
+    <item>You (man) met # Ты (мужчина) встречал # لَقِيتَ</item>
+    <item>You (all men) met # Вы (все мужчины) встречали # لَقِيتُمْ</item>
+    <item>Meet (woman)! (Imperative) # Встречай (женщине)! # اِلْقِي</item>
+    <item>She was met # Её встречали # لُقِيَتْ</item>
+    <item>You (woman) are met # Тебя (женщину) встречают # تُلْقَيْنَ</item>
+    <item>You (two men) were met # Вас (двоих мужчин) встречали # لُقِيتُمَا</item>
+    <item>You (all men) are met # Вас (всех мужчин) встречают # تُلْقَوْنَ</item>
+    <item>You (woman) met # Ты (женщина) встречала # لَقِيتِ</item>
+    <item>She meets # Она встречает # تَلْقَى</item>
+    <item>Their (all men) were met # Их (всех мужчин) встречали # لُقُوا</item>
+    <item>You (two men) are met # Вас (двоих мужчин) встречают # تُلْقَيَانِ</item>
+    <item>You (woman) were met # Тебя (женщину) встречали # لُقِيتِ</item>
+    <item>They (two women) meet # Они (две женщины) встречают # تَلْقَيَانِ</item>
+    <item>She met # Она встречала # لَقِيَتْ</item>
+    <item>You (woman) meet # Ты (женщина) встречаешь # تَلْقَيْنَ</item>
+    <item>Their (all men) are met # Их (всех мужчин) встречают # يُلْقَوْنَ</item>
+    <item>You (all men) were met # Вас (всех мужчин) встречали # لُقِيتُمْ</item>
+    <item>I will meet # Я буду встречать # سَأَلْقَى</item>
+    <item>You (two women) meet # Вы (две женщины) встречаете # تَلْقَيَانِ</item>
+    <item>She is met # Её встречают # تُلْقَى</item>
+    <item>Their (two women) were met # Их (двух женщин) встречали # لُقِيَتَا</item>
+    <item>You (two men) meet # Вы (двое мужчин) встречаете # تَلْقَيَانِ</item>
+    <item>Meet (two women)! (Imperative) # Встречайте (двум женщинам)! # اِلْقَيَا</item>
+    <item>They (all men) meet # Они (все мужчины) встречают # يَلْقَوْنَ</item>
+    <item>You (man) will meet # Ты (мужчина) будешь встречать # سَتَلْقَى</item>
+    <item>You (all men) meet # Вы (все мужчины) встречаете # تَلْقَوْنَ</item>
+    <item>You (two men) met # Вы (двое мужчин) встречали # لَقِيتُمَا</item>
+    <item>Meet (all men)! (Imperative) # Встречайте (всем мужчинам)! # اِلْقَوْا</item>
+    <item>You (two women) met # Вы (две женщины) встречали # لَقِيتُمَا</item>
+  </string-array>
+</resources>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_give" translatable="false">
+        давать, даровать  (у) - نَالَ\n
+        give (u) - نَالَ
+  </string>
+  <string-array name="past_give">
+    <item>He gave # Он давал # نَالَ</item>
+    <item>We gave # Мы давали # نُلْنَا</item>
+    <item>I gave # Я давал # نُلْتُ</item>
+    <item>They (two men) gave # Они (двое мужчин) давали # نَالَا</item>
+    <item>They (all men) gave # Они (все мужчины) давали # نَالُوا</item>
+    <item>You (man) gave # Ты (мужчина) давал # نُلْتَ</item>
+    <item>She gave # Она давала # نَالَتْ</item>
+    <item>You (two women) gave # Вы (две женщины) давали # نُلْتُمَا </item>
+    <item>You (two men) gave # Вы (двое мужчин) давали # نُلْتُمَا </item>
+    <item>They (two women) gave # Они (две женщины) давали # نَالَتَا</item>
+    <item>They (all women) gave # Они (все женщины) давали # نُلْنَ</item>
+    <item>You (all men) gave # Вы (все мужчины) давали # نُلْتُمْ</item>
+    <item>You (woman) gave # Ты (женщина) давала # نُلْتِ</item>
+    <item>You (all women) gave # Вы (все женщины) давали # نُلْتُنَّ</item>
+    <item>He was given # Ему давали # نِيلَ</item>
+    <item>You (two men) were given # Вам (двоим мужчин) давали # نِلْتُمَا</item>
+    <item>I was given # Мне давали # نِلْتُ</item>
+    <item>Their (two women) were given # Им (двум женщинам) давали # نِيلَتَا</item>
+    <item>You (all women) were given # Вам (всем женщинам) давали # نِلْتُنَّ</item>
+    <item>You (man) were given # Тебе (мужчине) давали # نِلْتَ</item>
+    <item>We were given # Нам давали # نِلْنَا</item>
+    <item>Their (two men) were given # Им (двум мужчинам) давали # نِيلَا</item>
+    <item>She was given # Ей давали # نِيلَتْ</item>
+    <item>You (all men) were given # Вам (всем мужчинам) давали # نِلْتُمْ</item>
+    <item>You (two women) were given # Вам (двум женщинам) давали # نِلْتُمَا</item>
+    <item>Their (all men) were given # Им (всем мужчинам) давали # نِيلُوا</item>
+    <item>Their (all women) were given # Им (всем женщинам) давали # نِلْنَ</item>
+    <item>You (woman) were given # Тебе (женщине) давали # نِلْتِ</item>
+  </string-array>
+  <string-array name="present_give">
+    <item>He gives # Он даёт # يَنُولُ</item>
+    <item>We give # Мы даём # نَنُولُ</item>
+    <item>I give # Я даю # أَنُولُ</item>
+    <item>They (two men) give # Они (двое мужчин) дают # يَنُولَانِ</item>
+    <item>They (all men) give # Они (все мужчины) дают # يَنُولُونَ</item>
+    <item>You (man) give # Ты (мужчина) даешь # تَنُولُ</item>
+    <item>She gives # Она даёт # تَنُولُ</item>
+    <item>You (two women) give # Вы (две женщины) даёте # تَنُولَانِ</item>
+    <item>You (two men) give # Вы (двое мужчин) даёте # تَنُولَانِ</item>
+    <item>They (two women) give # Они (две женщины) дают # تَنُولَانِ</item>
+    <item>They (all women) give # Они (все женщины) дают # يَنُلْنَ</item>
+    <item>You (all men) give # Вы (все мужчины) даёте # تَنُولُونَ</item>
+    <item>You (woman) give # Ты (женщина) даёшь # تَنُولِينَ</item>
+    <item>You (all women) give # Вы (все женщины) даёте # تَنُلْنَ</item>
+    <item>He is given # Ему дают # يُنَالُ</item>
+    <item>You (two men) are given # Вам (двоим мужчинам) дают # تُنَالَانِ</item>
+    <item>I am given # Мне дают # اُنَالُ</item>
+    <item>Their (two women) are given # Им (двоим женщинам) дают # تُنَالَانِ</item>
+    <item>You (all women) are given # Вам (всем женщинам) дают # تُنَلْنَ</item>
+    <item>You (man) are given # Тебе (мужчине) дают # تُنَالُ</item>
+    <item>We are given # Нам дают # نُنَالُ</item>
+    <item>Their (two men) are given # Им (двум мужчинам) дают # يُنَالَانِ</item>
+    <item>She is given # Ей дают # تُنَالُ</item>
+    <item>You (all men) are given # Вам (всем мужчинам) дают # تُنَالُونَ</item>
+    <item>You (two women) are given # Вам (двум женщинам) дают # تُنَالَانِ</item>
+    <item>Their (all men) are given # Им (всем мужчинам) дают # يُنَالُونَ</item>
+    <item>Their (all women) are given # Им (всем женщинам) дают # يُنَلْنَ</item>
+    <item>You (woman) are given # Тебе (женщине) дают # تُنَالِينَ</item>
+  </string-array>
+  <string-array name="future_give">
+    <item>Give (man)! (Imperative) # Дай (мужчине)! # نُلْ</item>
+    <item>Give (two men)! (Imperative) # Дайте (двум мужчинам)! # نُولَا</item>
+    <item>Give (all men)! (Imperative) # Дайте (всем мужчинам)! # نُولُوا</item>
+    <item>Give (woman)! (Imperative) # Дай (женщине)! # نُولِي</item>
+    <item>Give (two women)! (Imperative) # Дайте (двум женщинам)! # نُولَا</item>
+    <item>Give (all women)! (Imperative) # Дайте (всем женщинам)! # نُلْنَ</item>
+    <item>Let is give together! (Imperative) # Давайте давать вместе! # لِنَنُلْ</item>
+    <item>He will give # Он будет давать # سَيَنُولُ</item>
+    <item>They (all women) will give # Они (все женщины) будут давать # سَيَنُلْنَ</item>
+    <item>You (man) will give # Ты будешь давать (мужчине) # سَتَنُولُ</item>
+    <item>Let me give! (Imperative) # Давайте я дам! # لِأَنُلْ</item>
+    <item>Let them (two men) give! (Imperative) # Пусть они (двое мужчин) дают! # لِيَنُولَا</item>
+    <item>Let them (all men) give! (Imperative) # Пусть они (все мужчины) дают! # لِيَنُولُوا</item>
+    <item>Let them (two women) give! (Imperative) # Пусть они (две женщины) дают! # لِتَنُولَا</item>
+  </string-array>
+</resources>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_dry_wake" translatable="false">
+        высыхать (а), бодрствовать (у) - يَقُظَ يَبِسَ\n
+        dry (а), wake (u)  - يَقُظَ يَبِسَ
+  </string>
+  <string-array name="subtitles_dry">
+       <item>Высыхать</item>
+        <item>Dry</item>
+  </string-array>
+  <string-array name="subtitles_wake">
+    <item>Бодрствовать</item>
+    <item>Wake</item>
+  </string-array>
+  <string-array name="past_present_dry">
+    <item>He dried # Он высыхал # يَبِسَ</item>
+    <item>We dried # Мы высыхали # يَبِسْنَا</item>
+    <item>I dried # Я высыхал # يَبِسْتُ</item>
+    <item>They (two men) dried # Они (двое мужчин) высыхали # يَبِسَا</item>
+    <item>They (all men) dried # Они (все мужчины) высыхали # يَبِسُوا</item>
+    <item>You (man) dried # Ты (мужчина) высыхал # يَبِسْتَ</item>
+    <item>She dried # Она высыхала # يَبِسَتْ</item>
+    <item>You (two women) dried # Вы (две женщины) высыхали # يَبِسْتُمَا</item>
+    <item>You (two men) dried # Вы (двое мужчин) высыхали # يَبِسْتُمَا</item>
+    <item>They (two women) dried # Они (две женщины) высыхали # يَبِسَتَا</item>
+    <item>They (all women) dried # Они (все женщины) высыхали # يَبِسْنَ</item>
+    <item>You (all men) dried # Вы (все мужчины) высыхали # يَبِسْتُمْ</item>
+    <item>You (woman) dried # Ты (женщина) высыхала # يَبِسْتِ</item>
+    <item>You (all women) dried # Вы (все женщины) высыхали # يَبِسْتُنَّ</item>
+    <item>He dries # Он высыхает # يَيْبَسُ</item>
+    <item>We dry # Мы высыхаем # نَيْبَسُ</item>
+    <item>I dry # Я высыхаю # أَيْبَسُ</item>
+    <item>They (two men) dry # Они (двое мужчин) высыхают # يَيْبَسَانِ</item>
+    <item>They (all men) dry # Они (все мужчины) высыхают # يَيْبَسُونَ</item>
+    <item>You (man) dry # Ты (мужчина) высыхаешь # تَيْبَسُ</item>
+    <item>She dries # Она высыхает # تَيْبَسُ</item>
+    <item>You (two women) dry # Вы (две женщины) высыхаете # تَيْبَسَانِ</item>
+    <item>You (two men) dry # Вы (двое мужчин) высыхаете # تَيْبَسَانِ</item>
+    <item>They (two women) dry # Они (две женщины) высыхают # تَيْبَسَانِ</item>
+    <item>They (all women) dry # Они (все женщины) высыхают # يَيْبَسْنَ</item>
+    <item>You (all men) dry # Вы (все мужчины) высыхаете # تَيْبَسُونَ</item>
+    <item>You (woman) dry # Ты (женщина) высыхаешь # تَيْبَسِينَ</item>
+    <item>You (all women) dry # Вы (все женщины) высыхаете # تَيْبَسْنَ</item>
+  </string-array>
+  <string-array name="past_present_wake">
+    <item>He waked # Он бодрствовал # يَقُظَ</item>
+    <item>We waked # Мы бодрствовали # يَقُظْنَا</item>
+    <item>I waked # Я бодрствовал # يَقُظْتُ</item>
+    <item>They (two men) waked # Они (двое мужчин) бодрствовали # يَقُظَا</item>
+    <item>They (all men) waked # Они (все мужчины) бодрствовали # يَقُظُوا</item>
+    <item>You (man) waked # Ты (мужчина) бодрствовал # يَقُظْتَ</item>
+    <item>She waked # Она бодрствовала # يَقُظَتْ</item>
+    <item>You (two women) waked # Вы (две женщины) бодрствовали # يَقُظْتُمَا</item>
+    <item>You (two men) waked # Вы (двое мужчин) бодрствовали # يَقُظْتُمَا</item>
+    <item>They (two women) waked # Они (две женщины) бодрствовали # يَقُظَتَا</item>
+    <item>They (all women) waked # Они (все женщины) бодрствовали # يَقُظْنَ</item>
+    <item>You (all men) waked # Вы (все мужчины) бодрствовали # يَقُظْتُمْ</item>
+    <item>You (woman) waked # Ты (женщина) бодрствовала # يَقُظْتِ</item>
+    <item>You (all women) waked # Вы (все женщины) бодрствовали # يَقُظْتُنَّ</item>
+    <item>He wakes # Он бодрствует # يَيْقُظُ</item>
+    <item>We wake # Мы бодрствуем # نَيْقُظُ</item>
+    <item>I wake # Я бодрствую # أَيْقُظُ</item>
+    <item>They (two men) wake # Они (двое мужчин) бодрствуют # يَيْقُظَانِ</item>
+    <item>They (all men) wake # Они (все мужчины) бодрствуют # يَيْقُظُونَ</item>
+    <item>You (man) wake # Ты (мужчина) бодрствуешь # تَيْقُظُ</item>
+    <item>She wakes # Она бодрствует # تَيْقُظُ</item>
+    <item>You (two women) wake # Вы (две женщины) бодрствуете # تَيْقُظَانِ</item>
+    <item>You (two men) wake # Вы (двое мужчин) бодрствуете # تَيْقُظَانِ</item>
+    <item>They (two women) wake # Они (две женщины) бодрствуют # تَيْقُظَانِ</item>
+    <item>They (all women) wake # Они (все женщины) бодрствуют # يَيْقُظْنَ</item>
+    <item>You (all men) wake # Вы (все мужчины) бодрствуете # تَيْقُظُونَ</item>
+    <item>You (woman) wake # Ты (женщина) бодрствуешь # تَيْقُظِينَ</item>
+    <item>You (all women) wake # Вы (все женщины) бодрствуете # تَيْقُظْنَ</item>
+  </string-array>
+  <string-array name="imperative_dry_wake">
+    <item>Dry (man)! (Imperative) # Высыхай (мужчине)! # اِيبَسْ</item>
+    <item>Dry (two men)! (Imperative) # Высыхайте (двум мужчинам)! # اِيبَسَا</item>
+    <item>Dry (all men)! (Imperative) # Высыхайте (всем мужчинам)! # اِيبَسُوا</item>
+    <item>Dry (woman)! (Imperative) # Высыхай (женщине)! # اِيبَسِي</item>
+    <item>Dry (two women)! (Imperative) # Высыхайте (двум женщинам)! # اِيبَسَا</item>
+    <item>Dry (all women)! (Imperative) # Высыхайте (всем женщинам)! # اِيبَسْنَ</item>
+    <item>Let is dry together! (Imperative) # Давайте высыхать вместе! # لِنَيْبَسْ</item>
+    <item>Wake (man)! (Imperative) # Бодрствуй (мужчине)! # اُوقُظْ</item>
+    <item>Wake (two men)! (Imperative) # Бодрствуйте (двум мужчинам)! # اُوقُظَا</item>
+    <item>Wake (all men)! (Imperative) # Бодрствуйте (всем мужчинам)! # اُوقُظُوا</item>
+    <item>Wake (woman)! (Imperative) # Бодрствуй (женщине)! # اُوقُظِي</item>
+    <item>Wake (two women)! (Imperative) # Бодрствуйте (двум женщинам)! # اُوقُظَا </item>
+    <item>Wake (all women)! (Imperative) # Бодрствуйте (всем женщинам)! # اُوقُظْنَ</item>
+    <item>Let is wake together! (Imperative) # Давайте бодрствовать вместе! # لِنَيْقُظْ</item>
+  </string-array>
+</resources>

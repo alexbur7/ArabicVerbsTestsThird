@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_trust" translatable="false">
+       верить, доверять (и) - وَثِقَ\n 
+       trust, believe (i) - وَثِقَ</string>
+  <string-array name="trust">
+    <item>He trusted # Он доверял # وَثِقَ</item>
+    <item>Let is trust together! (Imperative) # Давайте доверять вместе! # لِنَثِقْ</item>
+    <item>He trusts # Он доверяет # يَثِقُ</item>
+    <item>We were trusted # Нам доверяли # وُثِقْنَا</item>
+    <item>Let him trust! (Imperative) # Пусть он доверяет! # لِيَثِقْ</item>
+    <item>We trusted # Мы доверяли # وَثِقْنَا</item>
+    <item>He will trust # Он будет доверять # سَيَثِقُ</item>
+    <item>We are trusted # Нам доверяют # نُوثَقُ</item>
+    <item>You (man) were trusted # Тебе (мужчине) доверяли # وُثِقْتَ</item>
+    <item>We will trust # Мы будем доверять # سَنَثِقُ</item>
+    <item>Trust (man)! (Imperative) # Доверяй (мужчине)! # ثِقْ</item>
+    <item>We trust # Мы доверяем # نَثِقُ</item>
+    <item>He was trusted # Ему доверяли # وُثِقَ</item>
+    <item>You (man) are trusted # Тебе (мужчине) доверяют # تُوثَقُ</item>
+    <item>He is trusted # Ему доверяют # يُوثَقُ</item>
+    <item>You (all women) trusted # Вы (все женщины) доверяли # وَثِقْتُنَّ</item>
+    <item>Trust (all women)! (Imperative) # Доверяйте (всем женщинам)! # ثِقْنَ</item>
+    <item>They (all women) trusted # Они (все женщины) доверяли # وَثِقْنَ</item>
+    <item>They (all women) are trusted # Им (всем женщинам) доверяют # يُوثَقْنَ</item>
+    <item>You (all women) were trusted # Вам (всем женщинам) доверяли # وُثِقْتُنَّ</item>
+    <item>Trust (two men)! (Imperative) # Доверяйте (двум мужчинам)! # ثِقَا</item>
+    <item>You (all women) are trusted # Вам (всем женщинам) доверяют # تُوثَقْنَ</item>
+    <item>They (two men) trusted # Они (двое мужчин) доверяли # وَثِقَا</item>
+    <item>Let me trust! (Imperative) # Давайте я доверю! # لِأَثِقْ</item>
+    <item>Let them (two men) trust! (Imperative) # Пусть они (двое мужчин) доверяют! # لِيَثِقَا</item>
+    <item>I trusted # Я доверял # وَثِقْتُ</item>
+    <item>I am trusted # Мне доверяют # أُوثَقُ</item>
+    <item>Their (two men) were trusted # Им (двоим мужчинам) доверяли # وُثِقَا</item>
+    <item>I trust # Я доверяю # أَثِقُ</item>
+    <item>Their (two men) are trusted # Им (двоим мужчинам) доверяют # يُوثَقَانِ</item>
+    <item>I was trusted # Мне доверяли # وُثِقْتُ</item>
+    <item>They (all women) trust # Они (все женщины) доверяют # يَثِقْنَ</item>
+    <item>Their (all women) were trusted # Им (всем женщинам) доверяли # وُثِقْنَ</item>
+    <item>You (all women) trust # Вы (все женщины) доверяете # تَثِقْنَ</item>
+    <item>You (two women) were trusted # Вам (двум женщинам) доверяли # وُثِقْتُمَا </item>
+    <item>They (all men) trusted # Они (все мужчины) доверяли # وَثِقُوا</item>
+    <item>You (two women) are trusted # Вам (двум женщинам) доверяют # تُوثَقَانِ</item>
+    <item>They (two men) trust # Они (двое мужчин) доверяют # يَثِقَانِ</item>
+    <item>They (two women) trusted # Они (две женщины) доверяли # وَثِقَتَا</item>
+    <item>You (man) trust # Ты (мужчина) доверяешь # تَثِقُ</item>
+    <item>Their (two women) are trusted # Им (двум женщинам) доверяют # تُوثَقَانِ</item>
+    <item>You (man) trusted # Ты (мужчина) доверял # وَثِقْتَ</item>
+    <item>You (all men) trusted # Вы (все мужчины) доверяли # وَثِقْتُمْ</item>
+    <item>Trust (woman)! (Imperative) # Доверяй (женщине)! # ثِقِي</item>
+    <item>She was trusted # Ей доверяли # وُثِقَتْ</item>
+    <item>You (woman) are trusted # Тебе (женщине) доверяют # تُوثَقِينَ</item>
+    <item>You (two men) were trusted # Вам (двоим мужчинам) доверяли # وُثِقْتُمَا</item>
+    <item>You (all men) are trusted # Вам (всем мужчинам) доверяют # تُوثَقُونَ</item>
+    <item>You (woman) trusted # Ты (женщина) доверяла # وَثِقْتِ</item>
+    <item>She trusts # Она доверяет # تَثِقُ</item>
+    <item>Their (all men) were trusted # Им (всем мужчинам) доверяли # وُثِقُوا</item>
+    <item>You (two men) are trusted # Вам (двоим мужчинам) доверяют # تُوثَقَانِ</item>
+    <item>You (woman) were trusted # Тебе (женщине) доверяли # وُثِقْتِ</item>
+    <item>They (two women) trust # Они (две женщины) доверяют # تَثِقَانِ</item>
+    <item>She trusted # Она доверяла # وَثِقَتْ</item>
+    <item>You (woman) trust # Ты (женщина) доверяешь # تَثِقِينَ</item>
+    <item>Their (all men) are trusted # Им (всем мужчинам) доверяют # يُوثَقُونَ</item>
+    <item>You (all men) were trusted # Вам (всем мужчинам) доверяли # وُثِقْتُمْ</item>
+    <item>I will trust # Я буду доверять # سَأَثِقُ</item>
+    <item>You (two women) trust # Вы (две женщины) доверяете # تَثِقَانِ</item>
+    <item>She is trusted # Ей доверяют # تُوثَقُ</item>
+    <item>Their (two women) were trusted # Им (двум женщинам) доверяли # وُثِقَتَا</item>
+    <item>You (two men) trust # Вы (двое мужчин) доверяете # تَثِقَانِ</item>
+    <item>Trust (two women)! (Imperative) # Доверяйте (двум женщинам)! # ثِقَا</item>
+    <item>They (all men) trust # Они (все мужчины) доверяют # يَثِقُونَ</item>
+    <item>You (man) will trust # Ты (мужчина) будешь доверять # سَتَثِقُ</item>
+    <item>You (all men) trust # Вы (все мужчины) доверяете # تَثِقُونَ</item>
+    <item>You (two men) trusted # Вы (двое мужчин) доверяли # وَثِقْتُمَا</item>
+    <item>Trust (all men)! (Imperative) # Доверяйте (всем мужчинам)! # ثِقُوا</item>
+    <item>You (two women) trusted # Вы (две женщины) доверяли # وَثِقْتُمَا</item>
+  </string-array>
+</resources>

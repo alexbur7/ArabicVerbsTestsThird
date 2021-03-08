@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_select" translatable="false">
+        выбирать, предпочитать (и) - خَارَ\n
+        select (i) - خَارَ
+  </string>
+  <string-array name="select">
+    <item>He selected # Он выбирал # خَارَ</item>
+    <item>He selects # Он выбирает # يَخِيرُ</item>
+    <item>Them (two men) were selected # Их (двоих мужчин) выбирали # خِيرَا</item>
+    <item>They (all men) selected # Они (все мужчины) выбирали # خَارُوا</item>
+    <item>He is selected # Его выбирают # يُخَارُ</item>
+    <item>They (two men) select # Они (двое мужчин) выбирают # يَخِيرَانِ</item>
+    <item>Them (all men) were selected # Их (всех мужчин) выбирали # خِيرُوا</item>
+    <item>She selected # Она выбирала # خَارَتْ</item>
+    <item>Them (two men) are selected # Их (двоих мужчин) выбирают # يُخَارَانِ</item>
+    <item>They (all men) select # Они (все мужчины) выбирают # يَخِيرُونَ</item>
+    <item>She was selected # Её выбирали # خِيرَتْ</item>
+    <item>They (two women) selected # Они (две женщины) выбирали # خَارَتَا</item>
+    <item>Them (all men) are selected # Их (всех мужчин) выбирают # يُخَارُونَ</item>
+    <item>She selects # Она выбирает # تَخِيرُ</item>
+    <item>Them (two women) were selected # Их (двух женщин) выбирали # خِيرَتَا</item>
+    <item>They (all women) selected # Они (все женщины) выбирали # خِرْنَ</item>
+    <item>She is selected # Её выбирают # تُخَارُ</item>
+    <item>They (two women) select # Они (две женщины) выбирают # تَخِيرَانِ</item>
+    <item>Them (all women) were selected # Их (всех женщин) выбирали # خِرْنَ</item>
+    <item>You (man) selected # Ты (мужчина) выбирал # خِرْتَ</item>
+    <item>Them (two women) are selected # Их (двух женщин) выбирают # تُخَارَانِ</item>
+    <item>They (all women) select # Они (все женщины) выбирают # يَخِرْنَ</item>
+    <item>You (man) were selected # Тебя (мужчину) выбирали # خِرْتَ</item>
+    <item>You (two men) selected # Вы (двое мужчин) выбирали # خِرْتُمَا</item>
+    <item>Let her select! (Imperative) # Пусть она выбирает! # لِتَخِرْ</item>
+    <item>They (two women) will select # Они (две женщины) будут выбирать # سَتَخِيرَانِ</item>
+    <item>Them (all women) are selected # Их (всех женщин) выбирают # يُخَرْنَ</item>
+    <item>You (man) select # Ты (мужчина) выбираешь # تَخِيرُ</item>
+    <item>You (two men) were selected # Вас (двоих мужчин) выбирали # خِرْتُمَا</item>
+    <item>You (all men) selected # Вы (все мужчины) выбирали # خِرْتُمْ</item>
+    <item>Let them (two women) select! (Imperative) # Пусть они (две женщины) выбирают! # لِتَخِيرَا</item>
+    <item>They (all women) will select # Они (все женщины) будут выбирать # سَيَخِرْنَ</item>
+    <item>You (man) are selected # Тебя (мужчину) выбирают # تُخَارُ</item>
+    <item>You (two men) select # Вы (двое мужчин) выбираете # تَخِيرَانِ</item>
+    <item>You (all men) were selected # Вас (всех мужчин) выбирали # خِرْتُمْ</item>
+    <item>You (woman) selected # Ты (женщина) выбирала # خِرْتِ</item>
+    <item>Let them (all women) select! (Imperative) # Пусть они (все женщины) выбирают! # لِيَخِرْنَ</item>
+    <item>You (man) will select # Ты (мужчина) будешь выбирать # سَتَخِيرُ</item>
+    <item>You (two men) are selected # Вас (двоих мужчин) выбирают # تُخَارَانِ</item>
+    <item>You (all men) select # Вы (все мужчины) выбираете # تَخِيرُونَ</item>
+    <item>You (woman) were selected # Тебя (женщину) выбирали # خِرْتِ</item>
+    <item>You (two women) selected # Вы (две женщины) выбирали # خِرْتُمَا</item>
+    <item>Select (man)! (Imperative) # Выбирай (мужчине)! # خِرْ</item>
+    <item>You (all men) are selected # Вас (всех мужчин) выбирают # تُخَارُونَ</item>
+    <item>You (woman) select # Ты (женщина) выбираешь # تَخِيرِينَ</item>
+    <item>You (two women) were selected # Вас (двух женщин) выбирали # خِرْتُمَا</item>
+    <item>You (all women) selected # Вы (все женщины) выбирали # خِرْتُنَّ</item>
+    <item>Select (two men)! (Imperative) # Выбирайте (двум мужчинам)! # خِيرَا</item>
+    <item>You (woman) are selected # Тебя (женщину) выбирают # تُخَارِينَ</item>
+    <item>You (two women) select # Вы (две женщины) выбираете # تَخِيرَانِ</item>
+    <item>You (all women) were selected # Вас (всех женщин) выбирали # خِرْتُنَّ</item>
+    <item>I selected # Я выбирал # خِرْتُ</item>
+    <item>Select (all men)! (Imperative) # Выбирайте (всем мужчинам)! # خِيرُوا</item>
+    <item>He was selected # Его выбирали # خِيرَ</item>
+    <item>You (two women) are selected # Вас (двух женщин) выбирают # تُخَارَانِ</item>
+    <item>You (all women) select # Вы (все женщины) выбираете # تَخِرْنَ</item>
+    <item>I was selected # Меня выбирали # خِرْتُ</item>
+    <item>We selected # Мы выбирали # خِرْنَا</item>
+    <item>Select (woman)! (Imperative) # Выбирай (женщине)! # خِيرِي</item>
+    <item>You (all women) are selected # Вас (всех женщин) выбирают # تُخَرْنَ</item>
+    <item>I select # Я выбираю # أَخِيرُ</item>
+    <item>We were selected # Нас выбирали # خِرْنَا</item>
+    <item>Select (two women)! (Imperative) # Выбирайте (двум женщинам)! # خِيرَا</item>
+    <item>I am selected # Меня выбирают # اُخَارُ</item>
+    <item>We select # Мы выбираем # نَخِيرُ</item>
+    <item>Select (all women)! (Imperative) # Выбирайте (всем женщинам)! # خِرْنَ</item>
+    <item>I will select # Я буду выбирать # سَأَخِيرُ</item>
+    <item>We are selected # Нас выбирают # نُخَارُ</item>
+    <item>They (two men) selected # Они (двое мужчин) выбирали # خَارَا</item>
+    <item>Let him select! (Imperative) # Пусть он выбирает! # لِيَخِرْ</item>
+  </string-array>
+</resources>

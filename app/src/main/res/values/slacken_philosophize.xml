@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_slacken_philosophize" translatable="false">
+        быть ослабленным, слабеть (у), быть рассудительным, рассуждать (у) - نَهُوَ رَخُوَ\n
+        be slackened, slacken (u), be reasonable, philosophize (u)  - نَهُوَ رَخُوَ
+  </string>
+  <string-array name="subtitles_slacken">
+    <item>Слабеть</item>
+    <item>Slacken</item>
+  </string-array>
+  <string-array name="subtitles_philosophize">
+    <item>Рассуждать</item>
+    <item>Philosophize</item>
+  </string-array>
+  <string-array name="past_present_slacken">
+    <item>He slackened # Он слабел # رَخُوَ</item>
+    <item>We slackened # Мы слабели # رَخُونَا</item>
+    <item>I slackened # Я слабел # رَخُوتُ</item>
+    <item>They (two men) slackened # Они (двое мужчин) слабели # رَخُوَا</item>
+    <item>They (all men) slackened # Они (все мужчины) слабели # رَخُوا</item>
+    <item>You (man) slackened # Ты (мужчина) слабел # رَخُوتَ</item>
+    <item>She slackened # Она слабела # رَخُوَتْ</item>
+    <item>You (two women) slackened # Вы (две женщины) слабели # رَخُوتُمَا</item>
+    <item>You (two men) slackened # Вы (двое мужчин) слабели # رَخُوتُمَا</item>
+    <item>They (two women) slackened # Они (две женщины) слабели # رَخُوَتَا</item>
+    <item>They (all women) slackened # Они (все женщины) слабели # رَخُونَ</item>
+    <item>You (all men) slackened # Вы (все мужчины) слабели # رَخُوتُمْ</item>
+    <item>You (woman) slackened # Ты (женщина) слабела # رَخُوتِ</item>
+    <item>You (all women) slackened # Вы (все женщины) слабели # رَخُوتُنَّ</item>
+    <item>He slackens # Он слабеет # يَرْخُو</item>
+    <item>We slacken # Мы слабеем # نَرْخُو</item>
+    <item>I slacken # Я слабею # أَرْخُو</item>
+    <item>They (two men) slacken # Они (двое мужчин) слабеют # يَرْخُوَانِ</item>
+    <item>They (all men) slacken # Они (все мужчины) слабеют # يَرْخُونَ</item>
+    <item>You (man) slacken # Ты (мужчина) слабеешь # تَرْخُو</item>
+    <item>She slackens # Она слабеет # تَرْخُو</item>
+    <item>You (two women) slacken # Вы (две женщины) слабеете # تَرْخُوَانِ</item>
+    <item>You (two men) slacken # Вы (двое мужчин) слабеете # تَرْخُوَانِ</item>
+    <item>They (two women) slacken # Они (две женщины) слабеют # تَرْخُوَانِ</item>
+    <item>They (all women) slacken # Они (все женщины) слабеют # يَرْخُونَ</item>
+    <item>You (all men) slacken # Вы (все мужчины) слабеете # تَرْخُونَ</item>
+    <item>You (woman) slacken # Ты (женщина) слабеешь # تَرْخِينَ</item>
+    <item>You (all women) slacken # Вы (все женщины) слабеете # تَرْخُونَ</item>
+  </string-array>
+  <string-array name="past_present_philosophize">
+    <item>He philosophized # Он рассуждал # نَهُوَ</item>
+    <item>We philosophized # Мы рассуждали # نَهُونَا</item>
+    <item>I philosophized # Я рассуждал # نَهُوتُ</item>
+    <item>They (two men) philosophized # Они (двое мужчин) рассуждали # نَهُوَا</item>
+    <item>They (all men) philosophized # Они (все мужчины) рассуждали # نَهُوا</item>
+    <item>You (man) philosophized # Ты (мужчина) рассуждал # نَهُوتَ</item>
+    <item>She philosophized # Она рассуждала # نَهُوَتْ</item>
+    <item>You (two women) philosophized # Вы (две женщины) рассуждали # نَهُوتُمَا</item>
+    <item>You (two men) philosophized # Вы (двое мужчин) рассуждали # نَهُوتُمَا</item>
+    <item>They (two women) philosophized # Они (две женщины) рассуждали # نَهُوَتَا</item>
+    <item>They (all women) philosophized # Они (все женщины) рассуждали # نَهُونَ</item>
+    <item>You (all men) philosophized # Вы (все мужчины) рассуждали # نَهُوتُمْ</item>
+    <item>You (woman) philosophized # Ты (женщина) рассуждала # نَهُوتِ</item>
+    <item>You (all women) philosophized # Вы (все женщины) рассуждали # نَهُوتُنَّ</item>
+    <item>He philosophizes # Он рассуждает # يَنْهُو</item>
+    <item>We philosophize # Мы рассуждаем # نَنْهُو</item>
+    <item>I philosophize # Я рассуждаю # أَنْهُو</item>
+    <item>They (two men) philosophize # Они (двое мужчин) рассуждают # يَنْهُوَانِ</item>
+    <item>They (all men) philosophize # Они (все мужчины) рассуждают # يَنْهُونَ</item>
+    <item>You (man) philosophize # Ты (мужчина) рассуждаешь # تَنْهُو</item>
+    <item>She philosophizes # Она рассуждает # تَنْهُو</item>
+    <item>You (two women) philosophize # Вы (две женщины) рассуждаете # تَنْهُوَانِ</item>
+    <item>You (two men) philosophize # Вы (двое мужчин) рассуждаете # تَنْهُوَانِ</item>
+    <item>They (two women) philosophize # Они (две женщины) рассуждают # تَنْهُوَانِ</item>
+    <item>They (all women) philosophize # Они (все женщины) рассуждают # يَنْهُونَ</item>
+    <item>You (all men) philosophize # Вы (все мужчины) рассуждаете # تَنْهُونَ</item>
+    <item>You (woman) philosophize # Ты (женщина) рассуждаешь # تَنْهِينَ</item>
+    <item>You (all women) philosophize # Вы (все женщины) рассуждаете # تَنْهُونَ</item>
+  </string-array>
+  <string-array name="imperative_slacken_philosophize">
+    <item>Slacken (man)! (Imperative) # Слабей (мужчине)! # اُرْخُ</item>
+    <item>Slacken (two men)! (Imperative) # Слабейте (двум мужчинам)! # اُرْخُوَا</item>
+    <item>Slacken (all men)! (Imperative) # Слабейте (всем мужчинам)! # اُرْخُوا</item>
+    <item>Slacken (woman)! (Imperative) # Слабей (женщине)! # اُرْخِي</item>
+    <item>Slacken (two women)! (Imperative) # Слабейте (двум женщинам)! # اُرْخُوَا</item>
+    <item>Slacken (all women)! (Imperative) # Слабейте (всем женщинам)! # اُرْخُونَ</item>
+    <item>Let is slacken together! (Imperative) # Давайте слабеть вместе! # لِنَرْخُ</item>
+    <item>Philosophize (man)! (Imperative) # Рассуждай (мужчине)! # اُنْهُ</item>
+    <item>Philosophize (two men)! (Imperative) # Рассуждайте (двум мужчинам)! # اُنْهُوَا</item>
+    <item>Philosophize (all men)! (Imperative) # Рассуждайте (всем мужчинам)! # اُنْهُوا</item>
+    <item>Philosophize (woman)! (Imperative) # Рассуждай (женщине)! # اُنْهِي</item>
+    <item>Philosophize (two women)! (Imperative) # Рассуждайте (двум женщинам)! # اُنْهُوَا</item>
+    <item>Philosophize (all women)! (Imperative) # Рассуждайте (всем женщинам)! # اُنْهُونَ</item>
+    <item>Let is philosophize together! (Imperative) # Давайте рассуждать вместе! # لِنَنْهُ</item>
+  </string-array>
+</resources>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_visit" translatable="false">
+        посещать, навещать (у) - زَارَ\n 
+        visit (u) - زَارَ
+    </string>
+  <string-array name="visit">
+    <item>He visited # Он посещал # زَارَ</item>
+    <item>Their (all men) were visited # Их (всех мужчин) посещали # زِيرُوا</item>
+    <item>They (two women) visit # Они (две женщины) посещают # تَزُورَانِ</item>
+    <item>You (man) are visited # Тебя (мужчину) посещают # تُزَارُ</item>
+    <item>You (all men) will visit # Вы (все мужчины) будете посещать # سَتَزُورُونَ</item>
+    <item>Pity (two women)! (Imperative) # Посещайте (двум женщинам)! # زُورَا</item>
+    <item>They (two men) visited # Они (двое мужчин) посещали # زَارَا</item>
+    <item>She was visited # Её посещали # زِيرَتْ</item>
+    <item>They (all women) visit # Они (все женщины) посещают # يَزُرْنَ</item>
+    <item>You (two men) are visited # Вас (двоих мужчин) посещают # تُزَارَانِ</item>
+    <item>You (woman) will visit # Ты (женщина) будешь посещать # سَتَزُورِينَ</item>
+    <item>Visit (all women)! (Imperative) # Посещайте (всем женщинам)! # زُرْنَ</item>
+    <item>They (all men) visited # Они (все мужчины) посещали # زَارُوا</item>
+    <item>Their (two women) were visited # Их (двух женщин) посещали # زِيرَتَا</item>
+    <item>You (man) visit # Ты (мужчина) посещаешь # تَزُورُ</item>
+    <item>You (all men) are visited # Вас (всех мужчин) посещают # تُزَارُونَ</item>
+    <item>You (two women) will visit # Вы (две женщины) будете посещать # سَتَزُورَانِ</item>
+    <item>Let me visit! (Imperative) # Давайте я посещу! # لِأَزُرْ</item>
+    <item>She visited # Она посещала # زَارَتْ</item>
+    <item>Their (all women) were visited # Их (всех женщин) посещали # زِرْنَ</item>
+    <item>You (two men) visit # Вы (двое мужчин) посещаете # تَزُورَانِ</item>
+    <item>You (woman) are visited # Тебя (женщину) посещают # تُزَارِينَ</item>
+    <item>You (all women) will visit # Вы (все женщины) будете посещать # سَتَزُرْنَ</item>
+    <item>Let is visit together! (Imperative) # Давайте посещать вместе! # لِنَزُرْ</item>
+    <item>They (two women) visited # Они (две женщины) посещали # زَارَتَا</item>
+    <item>You (man) were visited # Тебя (мужчину) посещали # زِرْتَ</item>
+    <item>You (all men) visit # Вы (все мужчины) посещаете # تَزُورُونَ</item>
+    <item>You (two women) are visited # Вас (двух женщин) посещают # تُزَارَانِ</item>
+    <item>I will visit # Я буду посещать # سَأَزُورُ</item>
+    <item>They (all women) visited # Они (все женщины) посещали # زُرْنَ</item>
+    <item>You (two men) were visited # Вас (двоих мужчин) посещали # زِرْتُمَا</item>
+    <item>You (woman) visit # Ты (женщина) посещаешь # تَزُورِينَ</item>
+    <item>You (all women) are visited # Вас (всех женщин) посещают # تُزَرْنَ</item>
+    <item>We will visit # Мы будем посещать # سَنَزُورُ</item>
+    <item>You (man) visited # Ты (мужчина) посещал # زُرْتَ</item>
+    <item>You (all men) were visited # Вас (всех мужчин) посещали # زِرْتُمْ</item>
+    <item>You (two women) visit # Вы (две женщины) посещаете # تَزُورَانِ</item>
+    <item>I am visited # Меня посещают # اُزَارُ</item>
+    <item>You (two men) visited # Вы (двое мужчин) посещали # زُرْتُمَا</item>
+    <item>You (woman) were visited # Тебя (женщину) посещали # زِرْتِ</item>
+    <item>You (all women) visit # Вы (все женщины) посещаете # تَزُرْنَ</item>
+    <item>We are visited # Нас посещают # نُزَارُ</item>
+    <item>You (all men) visited # Вы (все мужчины) посещали # زُرْتُمْ</item>
+    <item>You (two women) were visited # Вас (двух женщин) посещали # زِرْتُمَا</item>
+    <item>I visit # Я посещаю # أَزُورُ</item>
+    <item>You (woman) visited # Ты (женщина) посещала # زُرْتِ</item>
+    <item>You (all women) were visited # Вас (всех женщин) посещали # زِرْتُنَّ</item>
+    <item>We visit # Мы посещаем # نَزُورُ</item>
+    <item>You (two women) visited # Вы (две женщины) посещали # زُرْتُمَا</item>
+    <item>I was visited # Меня посещали # زِرْتُ</item>
+    <item>Their (two men) were visited # Их (двоих мужчин) посещали # زِيرَا</item>
+    <item>She visits # Она посещает # تَزُورُ</item>
+    <item>Their (all women) are visited # Их (всех женщин) посещают # يُزَرْنَ</item>
+    <item>You (all women) visited # Вы (все женщины) посещали # زُرْتُنَّ</item>
+    <item>We were visited # Нас посещали # زِرْنَا</item>
+    <item>He was visited # Его посещали # زِيرَ</item>
+    <item>They (all men) visit # Они (все мужчины) посещают # يَزُورُونَ</item>
+    <item>Their (two women) are visited # Их (двух женщин) посещают # تُزَارَانِ</item>
+    <item>I visited # Я посещал # زُرْتُ</item>
+    <item>Visit (woman)! (Imperative) # Посещай (женщине)! # زُورِي</item>
+    <item>He visits # Он посещает # يَزُورُ</item>
+    <item>Their (all men) are visited # Их (всех мужчин) посещают # يُزَارُونَ</item>
+    <item>We visited # Мы посещали # زُرْنَا</item>
+    <item>Visit (all men)! (Imperative) # Посещайте (всем мужчинам)! # زُورُوا</item>
+    <item>They (two men) visit # Они (двое мужчин) посещают # يَزُورَانِ</item>
+    <item>She is visited # Её посещают # تُزَارُ</item>
+    <item>Visit (two men)! (Imperative) # Посещайте (двум мужчинам)! # زُورَا</item>
+    <item>Their (two men) are visited # Их (двоих мужчин) посещают # يُزَارَانِ</item>
+    <item>Visit (man)! (Imperative) # Посещай (мужчине)! # زُرْ</item>
+    <item>He is visited # Его посещают # يُزَارُ</item>
+  </string-array>
+</resources>

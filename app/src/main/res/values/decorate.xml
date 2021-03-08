@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description_decorate" translatable="false">
+        украшать (и) - زَانَ\n
+        decorate (i) - زَانَ
+    </string>
+  <string-array name="decorate">
+    <item>He decorated # Он украшал # زَانَ</item>
+    <item>We are decorated # Нас украшают # نُزَانُ</item>
+    <item>He is decorated # Его украшают # يُزَانُ</item>
+    <item>We decorated # Мы украшали # زِنَّا</item>
+    <item>She decorated # Она украшала # زَانَتْ</item>
+    <item>I am decorated # Меня украшают # اُزَانُ</item>
+    <item>She is decorated # Её украшают # تُزَانُ</item>
+    <item>I decorated # Я украшал # زِنْتُ</item>
+    <item>You (man) decorated # Ты (мужчина) украшал # زِنْتَ</item>
+    <item>We decorate # Мы украшаем # نَزِينُ</item>
+    <item>You (man) are decorated # Тебя (мужчину) украшают # تُزَانُ</item>
+    <item>We were decorated # Нас украшали # زِنَّا</item>
+    <item>You (woman) decorated # Ты (женщина) украшала # زِنْتِ</item>
+    <item>I decorate # Я украшаю # أَزِينُ</item>
+    <item>You (woman) are decorated # Тебя (женщину) украшают # تُزَانِينَ</item>
+    <item>I was decorated # Меня украшали # زِنْتُ</item>
+    <item>He decorates # Он украшает # يَزِينُ</item>
+    <item>They (all women) decorated # Они (все женщины) украшали # زِنَّ</item>
+    <item>He was decorated # Его украшали # زِينَ</item>
+    <item>They (all women) are decorated # Их (всех женщин) украшают # يُزَنَّ</item>
+    <item>They (two men) were decorated # Их (двоих мужчин) украшали # زِينَا</item>
+    <item>You (two men) are decorated # Вас (двоих мужчин) украшают # تُزَانَانِ</item>
+    <item>They (two men) decorate # Они (двое мужчин) украшают # يَزِينَانِ</item>
+    <item>You (two men) decorated # Вы (двое мужчин) украшали # زِنْتُمَا</item>
+    <item>They (two men) are decorated # Их (двоих мужчин) украшают # يُزَانَانِ</item>
+    <item>You (all women) decorated # Вы (все женщины) украшали # زِنْتُنَّ</item>
+    <item>They (two men) decorated # Они (двое мужчин) украшали # زَانَا</item>
+    <item>You (all women) are decorated # Вас (всех женщин) украшают # تُزَنَّ</item>
+    <item>They (all men) were decorated # Их (всех мужчин) украшали # زِينُوا</item>
+    <item>You (two women) are decorated # Вас (двух женщин) украшают # تُزَانَانِ</item>
+    <item>They (all men) decorate # Они (все мужчины) украшают # يَزِينُونَ</item>
+    <item>You (two women) decorated # Вы (две женщины) украшали # زِنْتُمَا</item>
+    <item>They (all men) are decorated # Их (всех мужчин) украшают # يُزَانُونَ</item>
+    <item>You (man) were decorated # Тебя (мужчину) украшали # زِنْتَ</item>
+    <item>They (all men) decorated # Они (все мужчины) украшали # زَانُوا</item>
+    <item>You (man) decorate # Ты (мужчина) украшаешь # تَزِينُ</item>
+    <item>She was decorated # Ее украшали # زِينَتْ</item>
+    <item>You (all men) are decorated # Вас (всех мужчин) украшают # تُزَانُونَ</item>
+    <item>She decorates # Она украшает # تَزِينُ</item>
+    <item>You (all men) decorated # Вы (все мужчины) украшали # زِنْتُمْ</item>
+    <item>They (two women) decorated # Они (две женщины) украшали # زَانَتَا</item>
+    <item>You (woman) decorate # Ты (женщина) украшаешь # تَزِينِينَ</item>
+    <item>They (two women) are decorated # Их (двух женщин) украшают # تُزَانَانِ</item>
+    <item>You (woman) were decorated # Тебя (женщину) украшали # زِنْتِ</item>
+    <item>They (two women) decorate # Они (две женщины) украшают # تَزِينَانِ</item>
+    <item>You (all women) were decorated # Вас (всех женщин) украшали # زِنْتُنَّ</item>
+    <item>They (two women) were decorated # Их (двух женщин) украшали # زِينَتَا</item>
+    <item>You (all women) decorate # Вы (все женщины) украшаете # تَزِنَّ</item>
+    <item>They (all women) were decorated # Их (всех женщин) украшали # زِنَّ</item>
+    <item>You (all men) decorate # Вы (все мужчины) украшаете # تَزِينُونَ</item>
+    <item>They (all women) decorate # Они (все женщины) украшают # يَزِنَّ</item>
+    <item>You (all men) were decorated # Вас (всех мужчин) украшали # زِنْتُمْ</item>
+    <item>You (two men) decorate # Вы (двое мужчин) украшаете # تَزِينَانِ</item>
+    <item>You (two women) were decorated # Вас (двух женщин) украшали # زِنْتُمَا</item>
+    <item>You (two men) were decorated # Вас (двоих мужчин) украшали # زِنْتُمَا</item>
+    <item>You (two women) decorate # Вы (две женщины) украшаете # تَزِينَانِ</item>
+    <item>He will decorate # Он будет украшать # سَيَزِينُ</item>
+    <item>They (two men) will decorate # Они (двое мужчин) будут украшать # سَيَزِينَانِ</item>
+    <item>They (all men) will decorate # Они (все мужчины) будут украшать # سَيَزِينُونَ</item>
+    <item>She will decorate # Она будет украшать # سَتَزِينُ</item>
+    <item>They (two women) will decorate # Они (две женщины) будут украшать # سَتَزِينَانِ</item>
+    <item>They (all women) will decorate # Они (все женщины) будут украшать # سَيَزِنَّ</item>
+    <item>You (man) will decorate # Ты (мужчина) будешь украшать # سَتَزِينُ</item>
+    <item>You (two men) will decorate # Вы (двое мужчин) будете украшать # سَتَزِينَانِ</item>
+    <item>You (all men) will decorate # Вы (все мужчины) будете украшать # سَتَزِينُونَ</item>
+    <item>You (woman) will decorate # Ты (женщина) будешь украшать # سَتَزِينِينَ</item>
+    <item>You (two women) will decorate # Вы (две женщины) будете украшать # سَتَزِينَانِ</item>
+    <item>You (all women) will decorate # Вы (все женщины) будете украшать # سَتَزِنَّ</item>
+    <item>Let me decorate! (Imperative) # Давайте я украшу! # لِأَزِنْ</item>
+    <item>Let\'s decorate together! (Imperative) # Давайте украсим вместе! # لِنَزِنْ</item>
+  </string-array>
+</resources>
